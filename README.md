@@ -1,8 +1,23 @@
-# Languages
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,jenkins,rabbitmq,kafka,gcp,docker,kubernetes,maven,mysql,postman,idea,git,github,githubactions,angular,ts,nodejs,c,bash,python,linux,redis,nginx,postgres,arduino,css,html,js,sqlite" />
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=lekhrajdinkar&show_icons=true&theme=light) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lekhrajdinkar&theme=light&date_format=M%20j%5B%2C%20Y%5D)
+![Lekhraj's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lekhrajdinkar&layout=compact&langs_count=8&hide_border=true&theme=light&hide=Jupyter%20Notebook,HTML)
 
-# Tools
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,jenkins,rabbitmq,kafka,gcp,docker,kubernetes,maven,mysql,postman,idea,git,github,githubactions,angular,ts,nodejs,c,bash,python,linux,redis,nginx,postgres,arduino,css,html,js,sqlite" />
+---
 
-# Database
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,jenkins,rabbitmq,kafka,gcp,docker,kubernetes,maven,mysql,postman,idea,git,github,githubactions,angular,ts,nodejs,c,bash,python,linux,redis,nginx,postgres,arduino,css,html,js,sqlite" />
+### Frontend - Languages, framework, tools
+<img src="https://skillicons.dev/icons?i=angular,ts,css,html,js&theme=light" />
+
+### Backend - Languages, framework, tools
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,nodejs,maven&theme=light" />  
+<img src="https://skillicons.dev/icons?i=bash,linux&theme=light" />
+<img src="https://skillicons.dev/icons?i=idea,git,github,postman&theme=light" />
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=light" />
+
+### Cloud computing
+<img src="https://skillicons.dev/icons?i=aws,terraform&theme=light" />
+
+### Dev Ops
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,pipeline&theme=light" />
+
+## Database
+<img src="https://skillicons.dev/icons?i=postgres,sybase,oracle&theme=light" />
