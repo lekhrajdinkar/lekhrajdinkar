@@ -8,10 +8,8 @@
 <img src="https://skillicons.dev/icons?i=angular,ts,css,html,js&theme=light" />
 
 ### Backend - Languages, framework, tools
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,nodejs,maven&theme=light" />  
-<img src="https://skillicons.dev/icons?i=bash,linux&theme=light" />
-<img src="https://skillicons.dev/icons?i=idea,git,github,postman&theme=light" />
-<img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,nodejs,maven,bash,linux&theme=light" />  
+<img src="https://skillicons.dev/icons?i=idea,git,github,postman,kafka,rabbitmq&theme=light" />
 
 ### Cloud computing
 <img src="https://skillicons.dev/icons?i=aws,terraform&theme=light" />
