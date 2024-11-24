@@ -1,4 +1,4 @@
-[linkedin profile](https://www.linkedin.com/in/lekhraj-dinkar-25872140/)
+![](https://komarev.com/ghpvc/?username=nitinkc)   |   [linkedin profile](https://www.linkedin.com/in/lekhraj-dinkar-25872140/)
 
 ---
 
