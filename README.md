@@ -35,7 +35,10 @@
 
 ---
 ## 🏅 Achievements & Certifications  
-- AWS Certified Solutions Architect – Associate  
+- AWS Certified Solutions Architect – Associate
+### Udemy  
+- KCAD : https://www.udemy.com/certificate/UC-feee838c-bd35-435c-a3b5-bb2d7d6f5b5a/
+- AWS SSA-03 : https://www.udemy.com/certificate/UC-20929e5d-c26f-4861-bad8-c14d5efc7824/
 
 ---
 ## 📫 Connect with Me  
