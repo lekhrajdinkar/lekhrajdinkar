@@ -10,7 +10,7 @@
 ---
 
 ### Frontend - Languages, framework, tools
-<img src="https://skillicons.dev/icons?i=angular,ts,css,html,js,redux&theme=light" />
+<img src="https://skillicons.dev/icons?i=angular,ts,css,html,js,redux,rxjs,npm,nodejs&theme=light" />
 
 ### Backend - Languages, framework, tools
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,django,nodejs,maven&theme=light" />  
