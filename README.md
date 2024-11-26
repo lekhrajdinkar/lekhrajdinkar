@@ -18,7 +18,7 @@
 
 ### Cloud and Dev Ops
 <img src="https://skillicons.dev/icons?i=aws,terraform&theme=light" />
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linus,bash&theme=light" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,bash&theme=light" />
 harness CI/CD pipeline
 
 ## Database
