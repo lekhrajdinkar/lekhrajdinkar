@@ -13,12 +13,12 @@
 <img src="https://skillicons.dev/icons?i=angular,ts,css,html,js,redux&theme=light" />
 
 ### Backend - Languages, framework, tools
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,django,nodejs,maven,bash,linux&theme=light" />  
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,django,nodejs,maven&theme=light" />  
 <img src="https://skillicons.dev/icons?i=eclipse,idea,pycharm,vscode,postman,kafka,rabbitmq&theme=light" />
 
-### Cloud  and Dev Ops
+### Cloud and Dev Ops
 <img src="https://skillicons.dev/icons?i=aws,terraform&theme=light" />
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github&theme=light" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linus,bash&theme=light" />
 harness CI/CD pipeline
 
 ## Database
