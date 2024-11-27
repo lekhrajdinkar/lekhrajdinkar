@@ -38,7 +38,7 @@
 - **Micro-service Architecture** : [Notes](https://github.com/lekhrajdinkar/03-spring-cloud-v2/tree/main/Notes) | [project](https://github.com/lekhrajdinkar/03-spring-cloud-v2/tree/main0)
 - **Messaging** : [rmq](https://github.com/lekhrajdinkar/02-spring/blob/main/06_messaging/rmq/06_Messaging_rabbitMQ.md) | [kafka](https://github.com/lekhrajdinkar/02-spring/tree/main/06_messaging/kakfa)
 - **Spring / SpringBoot** :  [Notes](https://github.com/lekhrajdinkar/02-spring/tree/main/00_Springboot) | [project](https://github.com/lekhrajdinkar/02-spring/tree/main/src/main/java/com/lekhraj/java/spring)
-- **AWS**: [Notes-Soution Architect](https://github.com/lekhrajdinkar/02-spring/tree/main/01_aws) 
+- **AWS**: [Notes- SSA-03](https://github.com/lekhrajdinkar/02-spring/tree/main/01_aws) 
 - **Docker / Docker Compose** : [Notes](https://github.com/lekhrajdinkar/02-spring/tree/main/02_docker) 
 - **Kubenetes/ k8s** : [Notes](https://github.com/lekhrajdinkar/02-spring/tree/main/03_Kubernetes) | [project](https://github.com/lekhrajdinkar/02-spring/tree/main/03_Kubernetes/00_project)
   - [EKS](https://github.com/lekhrajdinkar/02-spring/tree/main/03_Kubernetes/04_EKS) | [ECS](https://github.com/lekhrajdinkar/02-spring/tree/main/03_Kubernetes/03_ECS)
