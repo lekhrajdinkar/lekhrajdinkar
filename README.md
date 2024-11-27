@@ -35,7 +35,7 @@
 ---
 ## 🌱 Learning  
 - Java : [Notes](https://github.com/lekhrajdinkar/02-Java17/Notes) | [project](https://github.com/lekhrajdinkar/02-Java17)
-- **Micro-service Architecture** : [Notes](https://github.com/lekhrajdinkar/03-spring-cloud-v2/tree/main/Notes) | [project](https://github.com/lekhrajdinkar/03-spring-cloud-v2/tree/main0)
+- **Micro-service Architecture** : [Notes](https://github.com/lekhrajdinkar/03-spring-cloud-v2/tree/main/Notes) | [project](https://github.com/lekhrajdinkar/03-spring-cloud-v2)
 - **Messaging** : [rmq](https://github.com/lekhrajdinkar/02-spring/blob/main/06_messaging/rmq/06_Messaging_rabbitMQ.md) | [kafka](https://github.com/lekhrajdinkar/02-spring/tree/main/06_messaging/kakfa)
 - **Spring / SpringBoot** :  [Notes](https://github.com/lekhrajdinkar/02-spring/tree/main/00_Springboot) | [project](https://github.com/lekhrajdinkar/02-spring/tree/main/src/main/java/com/lekhraj/java/spring)
 - **AWS**: [Notes- SSA-03](https://github.com/lekhrajdinkar/02-spring/tree/main/01_aws) 
