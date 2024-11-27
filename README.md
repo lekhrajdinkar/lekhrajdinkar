@@ -27,17 +27,30 @@
 <img src="https://skillicons.dev/icons?i=aws,terraform&theme=light" />
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,bash&theme=light" />
 
-
-
 ---
 ## 🏅 Achievements & Certifications  
 - AWS Certified Solutions Architect – Associate
+### learning Cetificates :
+**[udemy-KCAD](https://www.udemy.com/certificate/UC-feee838c-bd35-435c-a3b5-bb2d7d6f5b5a/)** |
+**[KodeKloud-k8s](https://learn.kodekloud.com/user/certificate/2DF185C3E1F4-2DF17FDC0A56-2DF17F90D14C)** |
+**[udemy-AWS-SAA-03](https://www.udemy.com/certificate/UC-20929e5d-c26f-4861-bad8-c14d5efc7824/)** |
+**[KodeKloud-docker](https://learn.kodekloud.com/user/certificate/2DF185C3E1F4-2DF17FCD1698-2DF17F90D14C)** |
+**[KodeKloud-JsonPath](https://learn.kodekloud.com/user/certificate/2DF185C3E1F4-2EE5E6FA0A85-2DF17F90D14C)** |
 
 ---
 ## 🌱 Learning  
-### Udemy 
-- **KCAD** : https://www.udemy.com/certificate/UC-feee838c-bd35-435c-a3b5-bb2d7d6f5b5a/
-- **AWS SSA-03** : https://www.udemy.com/certificate/UC-20929e5d-c26f-4861-bad8-c14d5efc7824/
+- Java : [Notes](https://github.com/lekhrajdinkar/02-Java17/Notes) | [project](https://github.com/lekhrajdinkar/02-Java17)
+- **Micro-service Architecture** : [Notes](https://github.com/lekhrajdinkar/03-spring-cloud-v2/tree/main/Notes) | [project](https://github.com/lekhrajdinkar/03-spring-cloud-v2/tree/main0)
+- **Messaging** : [rmq](https://github.com/lekhrajdinkar/02-spring/blob/main/06_messaging/rmq/06_Messaging_rabbitMQ.md) | [kafka](https://github.com/lekhrajdinkar/02-spring/tree/main/06_messaging/kakfa)
+- **Spring / SpringBoot** :  [Notes](https://github.com/lekhrajdinkar/02-spring/tree/main/00_Springboot) | [project](https://github.com/lekhrajdinkar/02-spring/tree/main/src/main/java/com/lekhraj/java/spring)
+- **AWS**: [Notes-Soution Architect](https://github.com/lekhrajdinkar/02-spring/tree/main/01_aws) 
+- **Docker / Docker Compose** : [Notes](https://github.com/lekhrajdinkar/02-spring/tree/main/02_docker) 
+- **Kubenetes/ k8s** : [Notes](https://github.com/lekhrajdinkar/02-spring/tree/main/03_Kubernetes) | [project](https://github.com/lekhrajdinkar/02-spring/tree/main/03_Kubernetes/00_project)
+  - [EKS](https://github.com/lekhrajdinkar/02-spring/tree/main/03_Kubernetes/04_EKS) | [ECS](https://github.com/lekhrajdinkar/02-spring/tree/main/03_Kubernetes/03_ECS)
+  - [HELM](https://github.com/lekhrajdinkar/02-spring/tree/main/03_Kubernetes/05_helm)
+- **Terraform** : [Notes](https://github.com/lekhrajdinkar/02-spring/tree/main/04_terraform) | [project](https://github.com/lekhrajdinkar/02-spring/tree/main/04_terraform/project/aws-config-maps)
+- **CI/CD Pipeline** : [harness](https://github.com/lekhrajdinkar/02-spring/tree/main/05_harness)
+- **Scripting** : [BASH](https://github.com/lekhrajdinkar/02-spring/tree/main/07_scripting/bash_script)
 
 ---
 ## 📫 Connect with Me  
