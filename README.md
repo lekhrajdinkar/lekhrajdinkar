@@ -3,7 +3,9 @@
 ---
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=lekhrajdinkar&show_icons=true&theme=light) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lekhrajdinkar&theme=light&date_format=M%20j%5B%2C%20Y%5D)
+
+![](https://github-readme-streak-stats.herokuapp.com?user=lekhrajdinkar&theme=light)
+
 ![Lekhraj's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lekhrajdinkar&layout=compact&langs_count=8&hide_border=true&theme=light&hide=Jupyter%20Notebook,HTML)
 
 ---
