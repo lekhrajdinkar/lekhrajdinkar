@@ -35,19 +35,32 @@
 
 
 ---
-## 🌱 Learning  
-- Java : [Notes](https://github.com/lekhrajdinkar/02-Java17/Notes) | [project](https://github.com/lekhrajdinkar/02-Java17)
+## 🌱 Learning 
+- **Frontend / Angular2+** :
+    - js/html/css : [front-end-pack](https://github.com/lekhrajdinkar/01-front-end-pack)
+    - ng: [Angular project-1 MEAN-stack](https://github.com/lekhrajdinkar/01-Frontend-MEAN-stack) | [Angular project-2 OTT](https://github.com/lekhrajdinkar/99-project-01-OTT-ng)
+    - css more: [css notes-1](https://github.com/lekhrajdinkar/Notes-HTML5-CSS3/tree/master/NOTES-CSS) | [css notes-2](https://github.com/lekhrajdinkar/Notes-HTML5-CSS3/tree/master/NOTES)
+      
+- **Java / SpringBoot**
+  - [Notes-java-17+](https://github.com/lekhrajdinkar/02-Java17/tree/main/Notes) | [project](https://github.com/lekhrajdinkar/02-Java17)
+  - [Notes-springboot-3.4+](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/00_Springboot) | [project](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/src/main/java/com/lekhraj/java/spring)
+    
+- **Nodejs / express** : [project-1](https://github.com/lekhrajdinkar/02-Backend-API-NodeJS)
+
+- **Python / fastApi / Django** : [project-2](https://github.com/lekhrajdinkar/02-Backend-Python)
+  
 - **Micro-service Architecture** : [Notes](https://github.com/lekhrajdinkar/03-spring-cloud-v2/tree/main/Notes) | [project](https://github.com/lekhrajdinkar/03-spring-cloud-v2)
 - **Messaging** : [rmq](https://github.com/lekhrajdinkar/02-backend-java-spring/blob/main/06_messaging/rmq/06_Messaging_rabbitMQ.md) | [kafka](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/06_messaging/kakfa)
-- **Spring / SpringBoot** :  [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/00_Springboot) | [project](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/src/main/java/com/lekhraj/java/spring)
-- **AWS**: [Notes- SSA-03](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/01_aws) 
-- **Docker / Docker Compose** : [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/02_docker) 
-- **Kubenetes/ k8s** : [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes) | [project](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes/00_project)
-  - [EKS](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes/04_EKS) | [ECS](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes/03_ECS)
-  - [HELM](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes/05_helm)
-- **Terraform** : [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/04_terraform) | [project](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/04_terraform/project/aws-config-maps)
-- **CI/CD Pipeline** : [harness](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/05_harness)
-- **Scripting** : [BASH](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/07_scripting/bash_script)
+- **Cloud services: AWS**: [Notes- SSA-03](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/01_aws) 
+
+- **DevOps**:
+  - **Docker / Docker Compose** : [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/02_docker)
+  - **Kubenetes/ k8s** : [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes) | [project](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes/00_project)
+    - [EKS](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes/04_EKS) | [ECS](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes/03_ECS)
+    - [HELM](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes/05_helm)
+  - **Terraform** : [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/04_terraform) | [project](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/04_terraform/project/aws-config-maps)
+  - **CI/CD Pipeline** : [harness](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/05_harness)
+  - **Scripting** : [BASH](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/07_scripting/bash_script)
 
 ### learning Cetificates :
 **[udemy-KCAD](https://www.udemy.com/certificate/UC-feee838c-bd35-435c-a3b5-bb2d7d6f5b5a/)** |
