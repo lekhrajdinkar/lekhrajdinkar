@@ -51,7 +51,9 @@
   
 - **Micro-service Architecture** : [Notes](https://github.com/lekhrajdinkar/03-spring-cloud-v2/tree/main/Notes) | [project](https://github.com/lekhrajdinkar/03-spring-cloud-v2)
 - **Messaging** : [rmq](https://github.com/lekhrajdinkar/02-backend-java-spring/blob/main/06_messaging/rmq/06_Messaging_rabbitMQ.md) | [kafka](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/06_messaging/kakfa)
-- **Cloud services: AWS**: [Notes- SSA-03](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/01_aws) 
+- **Cloud services: AWS**: [Notes- SSA-03](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/01_aws)
+- **Relation database** : [postgresSQL](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/08_Database/01_rdbms)
+- **ETL** : [spring-batch](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/09_ETL/01_spring-batch) | [py-spark](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/09_ETL/02_py-spark)
 
 - **DevOps**:
   - **Docker / Docker Compose** : [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/02_docker)
