@@ -36,6 +36,8 @@
 
 ---
 ## 🌱 Learning 
+- **Cloud services: AWS**: [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/01_aws)
+  
 - **Frontend / Angular2+** :
     - js/html/css : [front-end-pack](https://github.com/lekhrajdinkar/01-front-end-pack)
     - ng: [Angular project-1 MEAN-stack](https://github.com/lekhrajdinkar/01-Frontend-MEAN-stack) | [Angular project-2 OTT](https://github.com/lekhrajdinkar/99-project-01-OTT-ng)
@@ -51,7 +53,7 @@
   
 - **Micro-service Architecture** : [Notes](https://github.com/lekhrajdinkar/03-spring-cloud-v2/tree/main/Notes) | [project](https://github.com/lekhrajdinkar/03-spring-cloud-v2)
 - **Messaging** : [rmq](https://github.com/lekhrajdinkar/02-backend-java-spring/blob/main/06_messaging/rmq/06_Messaging_rabbitMQ.md) | [kafka](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/06_messaging/kakfa)
-- **Cloud services: AWS**: [Notes- SSA-03](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/01_aws)
+
 - **Relation database** : [postgresSQL](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/08_Database/01_rdbms)
 - **ETL** : [spring-batch](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/09_ETL/01_spring-batch) | [py-spark](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/09_ETL/02_py-spark)
 
