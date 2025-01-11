@@ -69,7 +69,8 @@
 ### learning Cetificates :
 **[udemy-KCAD](https://www.udemy.com/certificate/UC-feee838c-bd35-435c-a3b5-bb2d7d6f5b5a/)** |
 **[KodeKloud-JsonPath](https://learn.kodekloud.com/user/certificate/2DF185C3E1F4-2DF17FDC0A56-2DF17F90D14C)** |
-**[udemy-AWS-SAA-03](https://www.udemy.com/certificate/UC-20929e5d-c26f-4861-bad8-c14d5efc7824/)** |
+**[udemy-AWS-SAA](https://www.udemy.com/certificate/UC-20929e5d-c26f-4861-bad8-c14d5efc7824/)** |
+**[udemy-AWS-DVA](https://www.udemy.com/certificate/UC-8d98a19b-1742-4a02-a612-2b7cc99148dd/)** |
 **[KodeKloud-docker](https://learn.kodekloud.com/user/certificate/2DF185C3E1F4-2DF17FCD1698-2DF17F90D14C)** |
 **[KodeKloud-K8s-handson-Labs](https://learn.kodekloud.com/user/certificate/2DF185C3E1F4-2EE5E6FA0A85-2DF17F90D14C)** |
 
