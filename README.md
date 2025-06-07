@@ -40,7 +40,7 @@
   
 - **Frontend / Angular2+** :
     - js/ts/html/css : [front-end-pack](https://github.com/lekhrajdinkar/01-front-end-pack) | [css more notes](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/01-Frontend-html-css-maximilliam-2018/NOTES-CSS)
-    - ng: [NOTES](https://github.com/lekhrajdinkar/01-Frontend-Angular6-fundamentals/tree/master/notes)[project-1](https://github.com/lekhrajdinkar/01-Frontend-MEAN-stack) | [project-2](https://github.com/lekhrajdinkar/99-project-01-OTT-ng) |  
+    - ng: [NOTES](https://github.com/lekhrajdinkar/01-Frontend-Angular6-fundamentals/tree/master/notes) | [project-1](https://github.com/lekhrajdinkar/01-Frontend-MEAN-stack) | [project-2](https://github.com/lekhrajdinkar/99-project-01-OTT-ng) |  
       
 - **Java / SpringBoot**
   - [Notes-java-17+](https://github.com/lekhrajdinkar/02-Java17/tree/main/Notes) | [project](https://github.com/lekhrajdinkar/02-Java17)
