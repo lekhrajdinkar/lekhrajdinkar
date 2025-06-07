@@ -39,8 +39,10 @@
 - **Cloud services: AWS**: [SSA](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/01_aws) | [DVA](https://github.com/lekhrajdinkar/02-backend-java-spring/blob/main/01_aws/00_DVA-C02/00_DVA.md)
   
 - **Frontend / Angular2+** :
-    - js/ts/html/css : [front-end-pack](https://github.com/lekhrajdinkar/01-front-end-pack) | [css more notes](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/01-Frontend-html-css-maximilliam-2018/NOTES-CSS)
-    - ng: [NOTES](https://github.com/lekhrajdinkar/01-Frontend-Angular6-fundamentals/tree/master/notes) | [project-1](https://github.com/lekhrajdinkar/01-Frontend-MEAN-stack) | [project-2](https://github.com/lekhrajdinkar/99-project-01-OTT-ng) |  
+    - html + css : [Project](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/StyleHTML) |  [Notes](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/01-Frontend-html-css-maximilliam-2018/NOTES-CSS) 
+    - JavaScript : [Notes](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/VanillaJS/NOTES_JS) | [project](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/VanillaJS)
+    - Typescript : [Notes](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/SupersetTS)
+    - Angular: [NOTES](https://github.com/lekhrajdinkar/01-Frontend-Angular6-fundamentals/tree/master/notes) | [project-1](https://github.com/lekhrajdinkar/01-Frontend-MEAN-stack) | [project-2](https://github.com/lekhrajdinkar/99-project-01-OTT-ng) |
       
 - **Java / SpringBoot**
   - [Notes-java-17+](https://github.com/lekhrajdinkar/02-Java17/tree/main/Notes) | [project](https://github.com/lekhrajdinkar/02-Java17)
