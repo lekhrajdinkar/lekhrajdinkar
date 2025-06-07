@@ -39,9 +39,8 @@
 - **Cloud services: AWS**: [SSA](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/01_aws) | [DVA](https://github.com/lekhrajdinkar/02-backend-java-spring/blob/main/01_aws/00_DVA-C02/00_DVA.md)
   
 - **Frontend / Angular2+** :
-    - js/html/css : [front-end-pack](https://github.com/lekhrajdinkar/01-front-end-pack)
-    - ng: [Angular project-1 MEAN-stack](https://github.com/lekhrajdinkar/01-Frontend-MEAN-stack) | [Angular project-2 OTT](https://github.com/lekhrajdinkar/99-project-01-OTT-ng) | [NOTES](https://github.com/lekhrajdinkar/01-Frontend-Angular6-fundamentals/tree/master/notes)
-    - css more: [css notes-1](https://github.com/lekhrajdinkar/Notes-HTML5-CSS3/tree/master/NOTES-CSS) | [css notes-2](https://github.com/lekhrajdinkar/Notes-HTML5-CSS3/tree/master/NOTES)
+    - js/ts/html/css : [front-end-pack](https://github.com/lekhrajdinkar/01-front-end-pack) | [css more notes](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/01-Frontend-html-css-maximilliam-2018/NOTES-CSS)
+    - ng: [NOTES](https://github.com/lekhrajdinkar/01-Frontend-Angular6-fundamentals/tree/master/notes)[project-1](https://github.com/lekhrajdinkar/01-Frontend-MEAN-stack) | [project-2](https://github.com/lekhrajdinkar/99-project-01-OTT-ng) |  
       
 - **Java / SpringBoot**
   - [Notes-java-17+](https://github.com/lekhrajdinkar/02-Java17/tree/main/Notes) | [project](https://github.com/lekhrajdinkar/02-Java17)
