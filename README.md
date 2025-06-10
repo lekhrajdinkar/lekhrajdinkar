@@ -42,7 +42,7 @@
     - html + css : [Project](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/StyleHTML) |  [Notes](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/01-Frontend-html-css-maximilliam-2018/NOTES-CSS) 
     - JavaScript : [Notes](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/VanillaJS/NOTES_JS) | [project](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/VanillaJS)
     - Typescript : [Notes](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/SupersetTS)
-    - Angular: [NOTES](https://github.com/lekhrajdinkar/01-Frontend-Angular6-fundamentals/tree/master/notes) | [project-1](https://github.com/lekhrajdinkar/01-Frontend-MEAN-stack) | [project-2](https://github.com/lekhrajdinkar/99-project-01-OTT-ng) |
+    - Angular: [NOTES](https://github.com/lekhrajdinkar/01-Frontend-Angular6-fundamentals/tree/master/notes) | [project-ng7](https://github.com/lekhrajdinkar/01-Frontend-MEAN-stack) | [project-ng12-ott](https://github.com/lekhrajdinkar/99-project-01-OTT-ng) | [project-ng12](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/ng12)
       
 - **Java / SpringBoot**
   - [Notes-java-17+](https://github.com/lekhrajdinkar/02-Java17/tree/main/Notes) | [project](https://github.com/lekhrajdinkar/02-Java17)
