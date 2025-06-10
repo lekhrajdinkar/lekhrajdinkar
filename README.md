@@ -35,7 +35,7 @@ Cloud and DevOps
 ## 🌱 Learning 
 
 ### **Frontend**
-| Logo | Technology | References/Links |
+|  | Technology | References/Links |
 |------|------------|------------------|
 | <img src="https://skillicons.dev/icons?i=html&theme=light" width="20" /> | HTML + CSS | [Project](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/StyleHTML) \| [Notes](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/01-Frontend-html-css-maximilliam-2018/NOTES-CSS) |
 | <img src="https://skillicons.dev/icons?i=js&theme=light" width="20" /> | JavaScript | [Notes](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/VanillaJS/NOTES_JS) \| [Project](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/VanillaJS) |
@@ -45,7 +45,7 @@ Cloud and DevOps
 ---
 
 ### **Backend**
-| Logo | Technology | References/Links |
+|  | Technology | References/Links |
 |------|------------|------------------|
 | <img src="https://skillicons.dev/icons?i=java&theme=light" width="20" /> | Java 17+ | [Notes](https://github.com/lekhrajdinkar/02-Java17/tree/main/Notes) \| [Project](https://github.com/lekhrajdinkar/02-Java17) |
 | <img src="https://skillicons.dev/icons?i=spring&theme=light" width="20" /> | Spring Boot 3.4+ | [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/00_Springboot) \| [Project](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/src/main/java/com/lekhraj/java/spring) |
@@ -55,11 +55,12 @@ Cloud and DevOps
 | <img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" width="20" /> | Messaging (RabbitMQ/Kafka) | [RabbitMQ](https://github.com/lekhrajdinkar/02-backend-java-spring/blob/main/06_messaging/rmq/06_Messaging_rabbitMQ.md) \| [Kafka](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/06_messaging/kakfa) |
 | <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="20" /> | PostgreSQL | [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/08_Database/01_rdbms) |
 | <img src="https://skillicons.dev/icons?i=spring&theme=light" width="20" /> | ETL | [Spring Batch](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/09_ETL/01_spring-batch) \| [PySpark](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/09_ETL/02_py-spark) |
+| <img src="https://skillicons.dev/icons?i=aws&theme=light" width="20" /> | AWS (SSA/DVA) | [SSA](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/01_aws) \| [DVA](https://github.com/lekhrajdinkar/02-backend-java-spring/blob/main/01_aws/00_DVA-C02/00_DVA.md) |
 
 ---
 
 ### **DevOps**
-| Logo | Technology | References/Links |
+|  | Technology | References/Links |
 |------|------------|------------------|
 | <img src="https://skillicons.dev/icons?i=docker&theme=light" width="20" /> | Docker | [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/02_docker) |
 | <img src="https://skillicons.dev/icons?i=kubernetes&theme=light" width="20" /> | Kubernetes | [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes) \| [Project](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes/00_project) |
@@ -68,7 +69,7 @@ Cloud and DevOps
 | <img src="https://skillicons.dev/icons?i=terraform" width="20" /> | Terraform | [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/04_terraform) \| [Project](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/04_terraform/project/aws-config-maps) |
 | <img src="https://skillicons.dev/icons?i=githubactions&theme=light" width="20" /> | CI/CD (Harness) | [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/05_harness) |
 | <img src="https://skillicons.dev/icons?i=bash&theme=light" width="20" /> | Bash Scripting | [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/07_scripting/bash_script) |
-| <img src="https://skillicons.dev/icons?i=aws&theme=light" width="20" /> | AWS (SSA/DVA) | [SSA](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/01_aws) \| [DVA](https://github.com/lekhrajdinkar/02-backend-java-spring/blob/main/01_aws/00_DVA-C02/00_DVA.md) |
+
 
 ---
 ## 📫 Connect with Me  
