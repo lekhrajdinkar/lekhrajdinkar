@@ -31,28 +31,43 @@
 
 ---
 
-## 🌱 Learning  
+## 🌱 Learning 
 
-| **Frontend / Angular2+**              | **Backend**                      | **DevOps**                      |
-|----------------------------------------|----------------------------------|----------------------------------|
-| **html + css**:<br> - [Project](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/StyleHTML)<br> - [Notes](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/01-Frontend-html-css-maximilliam-2018/NOTES-CSS) | **Java / SpringBoot**:<br> - [Notes-java-17+](https://github.com/lekhrajdinkar/02-Java17/tree/main/Notes) \| [project](https://github.com/lekhrajdinkar/02-Java17)<br> - [Notes-springboot-3.4+](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/00_Springboot) \| [project](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/src/main/java/com/lekhraj/java/spring) | **Docker / Docker Compose**:<br> - [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/02_docker) |
-| **JavaScript**:<br> - [Notes](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/VanillaJS/NOTES_JS)<br> - [project](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/VanillaJS) | **Node.js / Express**:<br> - [project-1](https://github.com/lekhrajdinkar/02-Backend-API-NodeJS) | <img src="https://skillicons.dev/icons?i=kubernetes&theme=light"/> <br> **Kubernetes (k8s)**:<br> - [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes)<br> - [project](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes/00_project)<br> - [EKS](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes/04_EKS) \| [ECS](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes/03_ECS) |
-| **TypeScript**:<br> - [Notes](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/SupersetTS) | **Python**:<br> - [FastAPI/Django: project-2](https://github.com/lekhrajdinkar/02-Backend-Python) | **HELM**:<br> - [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes/05_helm) |
-| <img src="https://skillicons.dev/icons?i=angular&theme=light"/> <br> **Angular**:<br> - [NOTES](https://github.com/lekhrajdinkar/01-Frontend-Angular6-fundamentals/tree/master/notes)<br> - [project-ng7](https://github.com/lekhrajdinkar/01-Frontend-MEAN-stack)<br> - [project-ng12-ott](https://github.com/lekhrajdinkar/99-project-01-OTT-ng)<br> - [project-ng12](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/ng12) | **Microservices**:<br> - [Notes](https://github.com/lekhrajdinkar/03-spring-cloud-v2/tree/main/Notes)<br> - [project](https://github.com/lekhrajdinkar/03-spring-cloud-v2) | **Terraform**:<br> - [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/04_terraform)<br> - [project](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/04_terraform/project/aws-config-maps) |
-| | **Messaging**:<br> - [RabbitMQ](https://github.com/lekhrajdinkar/02-backend-java-spring/blob/main/06_messaging/rmq/06_Messaging_rabbitMQ.md)<br> - [Kafka](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/06_messaging/kakfa) | **CI/CD**:<br> - [Harness](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/05_harness) |
-| | **Database**:<br> - [PostgreSQL](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/08_Database/01_rdbms) | **Scripting**:<br> - [BASH](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/07_scripting/bash_script) |
-| | **ETL**:<br> - [Spring Batch](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/09_ETL/01_spring-batch)<br> - [PySpark](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/09_ETL/02_py-spark) | |
-| | <img src="https://skillicons.dev/icons?i=aws&theme=light" /> <br> **Cloud (AWS)**:<br> - [SSA](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/01_aws) \| [DVA](https://github.com/lekhrajdinkar/02-backend-java-spring/blob/main/01_aws/00_DVA-C02/00_DVA.md) | |
+### **Frontend**
+| Logo | Technology | References/Links |
+|------|------------|------------------|
+| <img src="https://skillicons.dev/icons?i=html&theme=light" width="40" /> | HTML + CSS | [Project](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/StyleHTML) \| [Notes](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/01-Frontend-html-css-maximilliam-2018/NOTES-CSS) |
+| <img src="https://skillicons.dev/icons?i=js&theme=light" width="40" /> | JavaScript | [Notes](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/VanillaJS/NOTES_JS) \| [Project](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/VanillaJS) |
+| <img src="https://skillicons.dev/icons?i=ts&theme=light" width="40" /> | TypeScript | [Notes](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/SupersetTS) |
+| <img src="https://skillicons.dev/icons?i=angular&theme=light" width="40" /> | Angular | [NOTES](https://github.com/lekhrajdinkar/01-Frontend-Angular6-fundamentals/tree/master/notes) \| [project-ng7](https://github.com/lekhrajdinkar/01-Frontend-MEAN-stack) \| [project-ng12-ott](https://github.com/lekhrajdinkar/99-project-01-OTT-ng) \| [project-ng12](https://github.com/lekhrajdinkar/01-front-end-pack/tree/master/ng12) |
 
-### Notes:
-- Preserved all original links and hierarchy (e.g., nested bullet points for clarity).
-- **AWS** was placed under **Frontend** due to space constraints, but it could alternatively be in **DevOps** if preferred.
-- Typos (e.g., "Kubenetes") were retained as per original content.
+---
 
-### Notes:
-- Preserved all original links and hierarchy (e.g., nested bullet points for clarity).
-- **AWS** was placed under **Frontend** due to space constraints, but it could alternatively be in **DevOps** if preferred.
-- Typos (e.g., "Kubenetes") were retained as per original content.
+### **Backend**
+| Logo | Technology | References/Links |
+|------|------------|------------------|
+| <img src="https://skillicons.dev/icons?i=java&theme=light" width="40" /> | Java 17+ | [Notes](https://github.com/lekhrajdinkar/02-Java17/tree/main/Notes) \| [Project](https://github.com/lekhrajdinkar/02-Java17) |
+| <img src="https://skillicons.dev/icons?i=spring&theme=light" width="40" /> | Spring Boot 3.4+ | [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/00_Springboot) \| [Project](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/src/main/java/com/lekhraj/java/spring) |
+| <img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="40" /> | Node.js/Express | [Project-1](https://github.com/lekhrajdinkar/02-Backend-API-NodeJS) |
+| <img src="https://skillicons.dev/icons?i=py&theme=light" width="40" /> | Python (FastAPI/Django) | [Project-2](https://github.com/lekhrajdinkar/02-Backend-Python) |
+| <img src="https://skillicons.dev/icons?i=aws&theme=light" width="40" /> | Microservices | [Notes](https://github.com/lekhrajdinkar/03-spring-cloud-v2/tree/main/Notes) \| [Project](https://github.com/lekhrajdinkar/03-spring-cloud-v2) |
+| <img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" width="40" /> | Messaging (RabbitMQ/Kafka) | [RabbitMQ](https://github.com/lekhrajdinkar/02-backend-java-spring/blob/main/06_messaging/rmq/06_Messaging_rabbitMQ.md) \| [Kafka](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/06_messaging/kakfa) |
+| <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="40" /> | PostgreSQL | [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/08_Database/01_rdbms) |
+| <img src="https://skillicons.dev/icons?i=spring&theme=light" width="40" /> | ETL | [Spring Batch](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/09_ETL/01_spring-batch) \| [PySpark](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/09_ETL/02_py-spark) |
+
+---
+
+### **DevOps**
+| Logo | Technology | References/Links |
+|------|------------|------------------|
+| <img src="https://skillicons.dev/icons?i=docker&theme=light" width="40" /> | Docker | [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/02_docker) |
+| <img src="https://skillicons.dev/icons?i=kubernetes&theme=light" width="40" /> | Kubernetes | [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes) \| [Project](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes/00_project) |
+| <img src="https://skillicons.dev/icons?i=aws&theme=light" width="40" /> | AWS (EKS/ECS) | [EKS](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes/04_EKS) \| [ECS](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes/03_ECS) |
+| <img src="https://skillicons.dev/icons?i=helm&theme=light" width="40" /> | HELM | [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/03_Kubernetes/05_helm) |
+| <img src="https://skillicons.dev/icons?i=terraform" width="40" /> | Terraform | [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/04_terraform) \| [Project](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/04_terraform/project/aws-config-maps) |
+| <img src="https://skillicons.dev/icons?i=githubactions&theme=light" width="40" /> | CI/CD (Harness) | [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/05_harness) |
+| <img src="https://skillicons.dev/icons?i=bash&theme=light" width="40" /> | Bash Scripting | [Notes](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/07_scripting/bash_script) |
+| <img src="https://skillicons.dev/icons?i=aws&theme=light" width="40" /> | AWS (SSA/DVA) | [SSA](https://github.com/lekhrajdinkar/02-backend-java-spring/tree/main/01_aws) \| [DVA](https://github.com/lekhrajdinkar/02-backend-java-spring/blob/main/01_aws/00_DVA-C02/00_DVA.md) |
 
 ---
 ## 📫 Connect with Me  
