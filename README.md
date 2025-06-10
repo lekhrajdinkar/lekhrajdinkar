@@ -2,7 +2,7 @@
 
 ---
 
-# ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=lekhrajdinkar&show_icons=true&theme=light) 
+## ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=lekhrajdinkar&show_icons=true&theme=light) 
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=lekhrajdinkar&theme=light)
 
