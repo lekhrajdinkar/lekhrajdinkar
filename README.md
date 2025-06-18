@@ -35,17 +35,11 @@ Cloud and DevOps
 ---
 
 ## Study Note / project / POC / LiveApp
-### FrontEnd
-- [Notes](https://front-end-docs.netlify.app)
-- [ng-12-live-app](https://angular-live-app.netlify.app/)
-### backend + AWS
-- [Notes-all](https://back-end-docs.netlify.app/)
-- [Notes-AWS](https://back-end-docs.netlify.app/01_aws/01_compute/03_lambda-01-saa/)
-### DevOps
-- [k8s](https://back-end-docs.netlify.app/03_kubernetes/readme/) |  [docker](https://back-end-docs.netlify.app/02_docker/00_architecture/)
-- [harness cd pipeline](https://back-end-docs.netlify.app/05_harness/Notes/01_kick_off.md)
-### gen AI
-- in progress
+- FrontEnd : [Notes](https://front-end-docs.netlify.app) | [ng-12-live-app](https://angular-live-app.netlify.app/)
+- backend : [Notes-all](https://back-end-docs.netlify.app/) | [python pySpark](https://python-project-and-notes.netlify.app/100_pyspark_02/)
+- aws : [Notes-AWS](https://back-end-docs.netlify.app/01_aws/01_compute/03_lambda-01-saa/)
+- DevOps :  [k8s](https://back-end-docs.netlify.app/03_kubernetes/readme/) |  [docker](https://back-end-docs.netlify.app/02_docker/00_architecture/) | [harness cd pipeline](https://back-end-docs.netlify.app/05_harness/Notes/01_kick_off.md)
+
 
 ---
 ## 📫 Connect with Me  
