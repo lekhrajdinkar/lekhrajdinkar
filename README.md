@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=lekhrajdinkar)  
 
-[website](https://stirring-croquembouche-a4f1cc.netlify.app/)
+
 
 ---
 
@@ -31,6 +31,18 @@ Backend
 Cloud and DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,git,github,linux,bash" />
+---
+## Study Note / project / POC / LiveApp
+### FrontEnd
+- https://front-end-docs.netlify.app
+### backend + AWS
+- https://back-end-docs.netlify.app/
+- [AWS](https://back-end-docs.netlify.app/01_aws/01_compute/03_lambda-01-saa/)
+### DevOps
+- [k8s](https://back-end-docs.netlify.app/03_kubernetes/readme/) |  [docker](https://back-end-docs.netlify.app/02_docker/00_architecture/)
+- [harness cd pipeline](https://back-end-docs.netlify.app/05_harness/Notes/01_kick_off.md)
+### gen AI
+- in progress
 
 ---
 ## 📫 Connect with Me  
