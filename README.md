@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=lekhrajdinkar)   
 
-[website](https://lekhrajdinkar.github.io/02-backend-pack/)
-
 ---
 
 [](https://github-readme-stats.vercel.app/api?username=lekhrajdinkar&show_icons=true&theme=light) 
