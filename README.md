@@ -31,7 +31,9 @@ Backend
 Cloud and DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,git,github,linux,bash" />
+
 ---
+
 ## Study Note / project / POC / LiveApp
 ### FrontEnd
 - https://front-end-docs.netlify.app
