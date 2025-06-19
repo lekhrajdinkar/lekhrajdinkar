@@ -37,12 +37,27 @@ Cloud and DevOps
 
 ---
 
-## Study Note / project / POC / LiveApp
-- FrontEnd : [Notes](https://front-end-docs.netlify.app) | [ng-12-live-app](https://angular-live-app.netlify.app/)
-- backend : [Notes-all](https://back-end-docs.netlify.app/) | [python pySpark](https://python-project-and-notes.netlify.app/100_pyspark_02/)
-- aws : [Notes-AWS](https://back-end-docs.netlify.app/01_aws/01_compute/03_lambda-01-saa/)
-- DevOps :  [k8s](https://back-end-docs.netlify.app/03_kubernetes/readme/) |  [docker](https://back-end-docs.netlify.app/02_docker/00_architecture/) | [harness cd pipeline](https://back-end-docs.netlify.app/05_harness/Notes/01_kick_off.md)
+## Study Note / Project / POC / LiveApp
 
+<!-- Study Note / Project / POC / LiveApp -->
+<ul>
+  <li>FrontEnd:
+    <a href="https://front-end-docs.netlify.app" target="_blank">Notes</a> |
+    <a href="https://angular-live-app.netlify.app/" target="_blank">ng-12-live-app</a>
+  </li>
+  <li>Backend:
+    <a href="https://back-end-docs.netlify.app/" target="_blank">Notes-all</a> |
+    <a href="https://python-project-and-notes.netlify.app/100_pyspark_02/" target="_blank">python pySpark</a>
+  </li>
+  <li>AWS:
+    <a href="https://back-end-docs.netlify.app/01_aws/01_compute/03_lambda-01-saa/" target="_blank">Notes-AWS</a>
+  </li>
+  <li>DevOps:
+    <a href="https://back-end-docs.netlify.app/03_kubernetes/readme/" target="_blank">k8s</a> |
+    <a href="https://back-end-docs.netlify.app/02_docker/00_architecture/" target="_blank">docker</a> |
+    <a href="https://back-end-docs.netlify.app/05_harness/Notes/01_kick_off.md" target="_blank">harness cd pipeline</a>
+  </li>
+</ul>
 
 ---
 ## 📫 Connect with Me  
