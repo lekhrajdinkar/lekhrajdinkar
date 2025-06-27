@@ -42,20 +42,20 @@ Cloud and DevOps
 <!-- Study Note / Project / POC / LiveApp -->
 <ul>
   <li>FrontEnd:
-    <a href="https://front-end-docs.netlify.app" target="_blank">Notes</a> |
-    <a href="https://angular-live-app.netlify.app/" target="_blank">ng-12-live-app</a>
+    ✅ <a href="https://front-end-docs.netlify.app" target="_blank">JS/TS + ng17 </a> |
+    ✅ <a href="https://angular-live-app.netlify.app/" target="_blank">ng-12-live-app</a>
   </li>
   <li>Backend:
-    <a href="https://back-end-docs.netlify.app" target="_blank">Notes-all</a> |
-    <a href="https://python-project-and-notes.netlify.app" target="_blank">python pySpark</a>
+    ✅ <a href="https://back-end-docs.netlify.app" target="_blank">Java + springboot + web </a> |
+    ✅ <a href="https://python-project-and-notes.netlify.app" target="_blank">Python + genAI </a>
   </li>
   <li>AWS:
-    <a href="https://back-end-docs.netlify.app/01_aws/01_compute/03_lambda-01-saa/" target="_blank">Notes-AWS</a>
+    ✅ <a href="https://back-end-docs.netlify.app/01_aws/01_compute/03_lambda-01-saa/" target="_blank">Notes-AWS</a>
   </li>
   <li>DevOps:
-    <a href="https://back-end-docs.netlify.app/03_kubernetes/readme/" target="_blank">k8s</a> |
-    <a href="https://back-end-docs.netlify.app/02_docker/00_architecture/" target="_blank">docker</a> |
-    <a href="https://back-end-docs.netlify.app/05_harness/Notes/01_kick_off.md" target="_blank">harness cd pipeline</a>
+    ✅ <a href="https://back-end-docs.netlify.app/03_kubernetes/readme/" target="_blank">k8s</a> |
+    ✅ <a href="https://back-end-docs.netlify.app/02_docker/00_architecture/" target="_blank">docker</a> |
+    ✅ <a href="https://back-end-docs.netlify.app/05_harness/Notes/01_kick_off.md" target="_blank">harness cd pipeline</a>
   </li>
 </ul>
 
