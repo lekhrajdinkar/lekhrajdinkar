@@ -50,7 +50,7 @@ Cloud and DevOps
     ✅ <a href="https://python-project-and-notes.netlify.app" target="_blank">Python + genAI </a>
   </li>
   <li>AWS:
-    ✅ <a href="https://back-end-docs.netlify.app/01_aws/01_compute/03_lambda-01-saa/" target="_blank">Notes-AWS</a>
+    ✅ <a href="https://back-end-docs.netlify.app/01_aws/01_compute/03_lambda-01-saa/" target="_blank">AWS - (SAA, DVA)</a>
   </li>
   <li>DevOps:
     ✅ <a href="https://back-end-docs.netlify.app/03_kubernetes/readme/" target="_blank">k8s</a> |
@@ -60,7 +60,6 @@ Cloud and DevOps
 </ul>
 
 ---
-## 📫 Connect with Me  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lekhrajdinkarus@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lekhraj-dinkar-25872140/)  
+### 📫 Connect with Me  
+🗨️[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lekhrajdinkarus@gmail.com)  | 👩🏻‍💻 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lekhraj-dinkar-25872140/)  
   
