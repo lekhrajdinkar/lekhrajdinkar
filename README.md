@@ -47,7 +47,7 @@ Cloud and DevOps
   </li>
   <li>Backend:
     ✅ <a href="https://back-end-docs.netlify.app" target="_blank">Java + springboot + web </a> |
-    ✅ <a href="https://python-project-and-notes.netlify.app" target="_blank">Python + genAI </a>
+    ✅ <a href="https://lekhrajdinkar.netlify.app" target="_blank">Python + genAI </a>
   </li>
   <li>AWS:
     ✅ <a href="https://back-end-docs.netlify.app/01_aws/01_compute/03_lambda-01-saa/" target="_blank">AWS - (SAA, DVA)</a>
