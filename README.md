@@ -36,10 +36,6 @@ Cloud and DevOps
 <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,git,github,linux,bash" />
 
 ---
-
-<a href="https://lekhrajdinkar.netlify.app" target="_blank">blogs</a>
-
----
 ### 📫 Connect with Me  
 🗨️[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lekhrajdinkarus@gmail.com)  | 👩🏻‍💻 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lekhraj-dinkar-25872140/)  
   
