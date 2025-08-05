@@ -22,32 +22,16 @@ Welcome to my GitHub profile — a space where engineering meets innovation.
 
 ## 💼 Tech Stack
 
-### 🌐 Frontend
-![Angular](https://skillicons.dev/icons?i=angular,ts,html,css,js,redux,rxjs)
+## 💼 Tech Stack
 
-### 🧠 Backend / Engineering
-![Java](https://skillicons.dev/icons?i=java,spring,hibernate)
-![Python](https://skillicons.dev/icons?i=python,django)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Kafka](https://skillicons.dev/icons?i=kafka)
-![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
-![Maven](https://skillicons.dev/icons?i=maven)
+| 🌐 Frontend | 🧠 Backend / Engineering |
+|------------|--------------------------|
+| ![Angular Stack](https://skillicons.dev/icons?i=angular,ts,html,css,js,redux,rxjs) | ![Backend Stack](https://skillicons.dev/icons?i=java,spring,hibernate,python,django,nodejs,postgres,kafka,rabbitmq,maven) |
 
+| ☁️ Platform & DevOps | 🧩 Data Engineering |
+|----------------------|--------------------|
+| ![Platform DevOps](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,github,git,bash) | ![Data Stack](https://skillicons.dev/icons?i=spark,python,sql,flink,redshift,databricks) |
 
-### ☁️ Platform & DevOps
-![AWS](https://skillicons.dev/icons?i=aws)
-![Terraform](https://skillicons.dev/icons?i=terraform)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Linux](https://skillicons.dev/icons?i=linux)
-![GitHub](https://skillicons.dev/icons?i=github,git,bash)
-
-### 🧩 Data Engineering
-![PySpark](https://skillicons.dev/icons?i=spark,python,sql)
-![Flink](https://skillicons.dev/icons?i=flink)
-![Redshift](https://skillicons.dev/icons?i=redshift)
-![Databricks](https://skillicons.dev/icons?i=databricks)
 
 ---
 
