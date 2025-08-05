@@ -133,28 +133,34 @@ projects:
 
 skills:
   - category: "Platform Engineering"
-    items: ["Kubernetes", "AWS EKS", "Terraform", "Helm", "Docker", "Harness CI/CD", "GitOps", "Infrastructure as Code"]
+    items: ["Kubernetes", "AWS ECS/EKS", "Terraform", "Helm", "Docker", "Harness CI/CD", "GitOps"]
   
   - category: "Data Engineering"
-    items: ["PySpark", "Apache Kafka", "PostgreSQL", "Python", "Pandas", "ETL Pipelines", "Data Modeling", "Databricks"]
+    items: ["PySpark", "Apache Kafka", "PostgreSQL", "Python", "ETL Pipelines",  "Databricks"]
   
-  - category: "Cloud & AWS"
-    items: ["AWS Lambda", "EKS", "RDS", "S3", "API Gateway", "CloudFormation", "SAM", "CDK", "VPC", "IAM"]
-  
+  - category: "AWS Compute"
+    items: ["AWS Lambda", "ECS", "EKS", "ECR", "Aurora",  "S3", "API Gateway"]
+
+  - category: "AWS networking and Security"
+    items: ["VPC", "IAM", "Security Groups", "NAT Gateways", "Route 53", "AWS WAF",
+            "AWS Shield", "API Gateway", "CloudFront", "Secrets Manager", "KMS", "ALB/NLB"
+            "JWT", "OAuth 2.0", "OIDC",  "PKI", "AWS IAM", "RBAC" ]
+
   - category: "Software Engineering"
-    items: ["Java", "Spring Boot", "Microservices", "System Design", "API Design", "Message Brokers", "Distributed Systems"]
-  
+    items: ["Angular", "Java/Spring Boot", "python/fastapi", "Microservices", "RestfulAPI",
+             "Event-Driven Architecture", "Agile Methodologies", "CD Automation", "Git"]
+
+  - category: "Message Broker & Event-Driven Architecture"
+    items: [ "Apache Kafka", "RabbitMQ", "AWS SQS", "SNS", "Kinesis", "Event-Driven Architecture", "AWS EventBridge" ]
+
   - category: "Databases & Storage"
-    items: ["PostgreSQL", "DynamoDB", "Redis", "Database Design", "SQL Optimization", "Data Partitioning", "ACID Properties"]
+    items: ["S3", "EFS",
+            "PostgreSQL", "DynamoDB", "Redis", "Database Design", "SQL Optimization", "Data Partitioning", "ACID Properties"]
   
   - category: "Observability & Monitoring"
-    items: ["Datadog", "CloudWatch", "X-Ray", "Prometheus", "Grafana", "Distributed Tracing", "Metrics & Logging"]
-  
-  - category: "Security & Authentication"
-    items: ["JWT", "OAuth 2.0", "OIDC", "SAML", "PKI", "AWS IAM", "RBAC", "Service Accounts"]
-  
-  - category: "Message Systems"
-    items: ["Apache Kafka", "RabbitMQ", "AWS SQS", "SNS", "Kinesis", "Event-Driven Architecture", "Message Patterns"]
+    items: ["Datadog", "AWS:CloudWatch", "X-Ray", "OpenTelemetry (OTEL)"]
+
+
 
 summary: |
   12+ years of experience in the financial services sector. 
