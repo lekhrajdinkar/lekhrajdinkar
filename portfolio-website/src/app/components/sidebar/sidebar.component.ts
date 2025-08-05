@@ -31,11 +31,20 @@ import { RouterModule } from '@angular/router';
       </div>
       
       <div class="nav-section">
-        <h3>Categories</h3>
-        <ul class="nav-list">
-          <li><a href="#software">Software Engineering</a></li>
-          <li><a href="#data">Data Engineering</a></li>
-          <li><a href="#platform">Platform Engineering</a></li>
+        <h3>Project Categories</h3>
+        <ul class="nav-list category-nav">
+          <li><a href="#platform-engineering" class="platform-category">
+            <span class="material-icons">cloud</span>
+            Platform Engineering
+          </a></li>
+          <li><a href="#data-engineering" class="data-category">
+            <span class="material-icons">analytics</span>
+            Data Engineering
+          </a></li>
+          <li><a href="#software-engineering" class="software-category">
+            <span class="material-icons">code</span>
+            Software Engineering
+          </a></li>
         </ul>
       </div>
       
@@ -110,6 +119,27 @@ import { RouterModule } from '@angular/router';
     }
     .social-links a:hover {
       background: var(--primary-color);
+      color: white;
+    }
+    .category-nav .platform-category {
+      border-left: 3px solid #10b981;
+    }
+    .category-nav .platform-category:hover {
+      background: #10b981;
+      color: white;
+    }
+    .category-nav .data-category {
+      border-left: 3px solid #f59e0b;
+    }
+    .category-nav .data-category:hover {
+      background: #f59e0b;
+      color: white;
+    }
+    .category-nav .software-category {
+      border-left: 3px solid #3b82f6;
+    }
+    .category-nav .software-category:hover {
+      background: #3b82f6;
       color: white;
     }
   `]

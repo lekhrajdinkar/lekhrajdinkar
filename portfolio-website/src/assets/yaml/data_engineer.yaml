@@ -1,0 +1,33 @@
+nav:
+  - Spark:
+    - index: 01_pyspark/index.md
+    - pandas: 01_pyspark/00_panda.md
+    - setup_locally: 01_pyspark/01_setup_locally.md
+    - architecture: 01_pyspark/02_architecture.md
+    - ETL_01: 01_pyspark/03_ETL_1.md
+    - ETL_02: 01_pyspark/03_ETL_2.md
+    - file_format: 01_pyspark/04_file_format.md
+    - pyspark_01: 01_pyspark/100_pyspark_01_start.md
+
+    - Database:
+        - Postgres RDBMS:
+            - start: 04_sql-database/01_rdbms/00_postgress.md
+            - Data Types: 04_sql-database/01_rdbms/01_datatype.md
+            - Constraints: 04_sql-database/01_rdbms/02_constraints.md
+            - Normalization: 04_sql-database/01_rdbms/00_Normalization.md
+            - Index: 04_sql-database/01_rdbms/00_db_index.md
+            - DDL: 04_sql-database/01_rdbms/02_ddl.md
+            - DML: 04_sql-database/01_rdbms/02_dml.md
+            - DQL: 04_sql-database/01_rdbms/02_dql.md
+            - DCL: 04_sql-database/01_rdbms/03_dcl.md
+            - ACID & Locks: 04_sql-database/01_rdbms/07_ACID+Locks.md
+            - Functions: 04_sql-database/01_rdbms/04_function.md
+            - CTE: 04_sql-database/01_rdbms/05_CTE.md
+            - Views: 04_sql-database/01_rdbms/06_view.md
+            - partitioning: 04_sql-database/01_rdbms/10_partitioning.md
+            - Sharding: 04_sql-database/01_rdbms/10_sharding-rdbms.md
+            - Project-01 (Shopping App): 04_sql-database/01_rdbms/shopping_app/readme.md
+
+    - Data platform:
+        - Databricks:
+            - start: 98_Data_engineering/02_Databrick/01_databrick_start.mdd

@@ -1,61 +1,145 @@
 projects:
+  # Platform Engineering Projects
   - id: 1
-    title: "Microservices E-commerce Platform"
-    description: "Full-stack e-commerce platform with Java Spring Boot microservices, Angular frontend, and Kubernetes deployment"
-    technologies: ["Java", "Spring Boot", "Angular", "PostgreSQL", "Kubernetes", "Docker"]
-    category: "Software Engineering"
-    image: "assets/images/ecommerce.jpg"
-    github: "https://github.com/lekhrajdinkar/ecommerce-platform"
-    demo: "https://ecommerce-demo.example.com"
-    featured: true
-
-  - id: 2
-    title: "Real-time Data Pipeline"
-    description: "Scalable data pipeline using Apache Kafka, PySpark, and AWS services for real-time analytics"
-    technologies: ["Python", "PySpark", "Kafka", "AWS", "PostgreSQL", "Docker"]
-    category: "Data Engineering"
-    image: "assets/images/data-pipeline.jpg"
-    github: "https://github.com/lekhrajdinkar/data-pipeline"
-    demo: "https://data-dashboard.example.com"
-    featured: true
-
-  - id: 3
-    title: "Infrastructure as Code Templates"
-    description: "Terraform modules for AWS infrastructure with CI/CD pipelines and monitoring"
-    technologies: ["Terraform", "AWS", "Kubernetes", "Harness", "Prometheus"]
+    title: "AWS EKS Multi-Tenant Platform"
+    description: "Production-ready Kubernetes platform on AWS EKS with multi-tenancy, IRSA, external secrets, and comprehensive monitoring"
+    technologies: ["Kubernetes", "AWS EKS", "Terraform", "Helm", "External Secrets", "IRSA", "Prometheus"]
     category: "Platform Engineering"
-    image: "assets/images/infrastructure.jpg"
-    github: "https://github.com/lekhrajdinkar/terraform-modules"
+    image: "assets/images/eks-platform.jpg"
+    github: "https://github.com/lekhrajdinkar/eks-platform"
     demo: null
     featured: true
 
+  - id: 2
+    title: "Terraform AWS Infrastructure Modules"
+    description: "Reusable Terraform modules for AWS infrastructure including VPC, EKS, RDS, and security components with HCL best practices"
+    technologies: ["Terraform", "AWS", "HCL", "VPC", "EKS", "RDS", "IAM"]
+    category: "Platform Engineering"
+    image: "assets/images/terraform-modules.jpg"
+    github: "https://github.com/lekhrajdinkar/terraform-aws-modules"
+    demo: null
+    featured: true
+
+  - id: 3
+    title: "Harness CI/CD Pipeline Templates"
+    description: "Enterprise CI/CD pipelines using Harness with multi-environment deployments, automated testing, and rollback strategies"
+    technologies: ["Harness", "Docker", "Kubernetes", "Bash", "GitOps", "Helm"]
+    category: "Platform Engineering"
+    image: "assets/images/harness-pipeline.jpg"
+    github: "https://github.com/lekhrajdinkar/harness-pipelines"
+    demo: null
+    featured: true
+
+  # Data Engineering Projects
   - id: 4
-    title: "Distributed Task Scheduler"
-    description: "Microservice for distributed task scheduling with Redis and RabbitMQ"
-    technologies: ["Java", "Spring Boot", "Redis", "RabbitMQ", "Docker"]
+    title: "PySpark ETL Data Pipeline"
+    description: "Scalable ETL pipeline using PySpark with multiple file formats, PostgreSQL integration, and data transformation workflows"
+    technologies: ["PySpark", "Python", "PostgreSQL", "Pandas", "Parquet", "Delta Lake"]
+    category: "Data Engineering"
+    image: "assets/images/pyspark-etl.jpg"
+    github: "https://github.com/lekhrajdinkar/pyspark-etl-pipeline"
+    demo: "https://databricks-demo.example.com"
+    featured: true
+
+  - id: 5
+    title: "Real-time Streaming with Kafka"
+    description: "Event-driven architecture with Apache Kafka, real-time data processing, and integration with AWS services"
+    technologies: ["Apache Kafka", "Python", "AWS MSK", "Kinesis", "Lambda", "DynamoDB"]
+    category: "Data Engineering"
+    image: "assets/images/kafka-streaming.jpg"
+    github: "https://github.com/lekhrajdinkar/kafka-streaming"
+    demo: null
+    featured: true
+
+  - id: 6
+    title: "PostgreSQL Database Design"
+    description: "Comprehensive database design with normalization, indexing, partitioning, and performance optimization for shopping application"
+    technologies: ["PostgreSQL", "SQL", "Database Design", "Indexing", "Partitioning", "ACID"]
+    category: "Data Engineering"
+    image: "assets/images/postgres-design.jpg"
+    github: "https://github.com/lekhrajdinkar/postgres-shopping-app"
+    demo: null
+    featured: false
+
+  # Software Engineering Projects
+  - id: 7
+    title: "Microservices System Design"
+    description: "Distributed microservices architecture with API design, service communication, container orchestration, and observability"
+    technologies: ["Java", "Spring Boot", "Docker", "Kubernetes", "API Gateway", "Circuit Breaker"]
     category: "Software Engineering"
-    image: "assets/images/scheduler.jpg"
-    github: "https://github.com/lekhrajdinkar/task-scheduler"
+    image: "assets/images/microservices.jpg"
+    github: "https://github.com/lekhrajdinkar/microservices-system"
+    demo: null
+    featured: true
+
+  - id: 8
+    title: "Message Broker Integration"
+    description: "Event-driven messaging system using RabbitMQ and Kafka with Java Spring Boot integration and message patterns"
+    technologies: ["RabbitMQ", "Apache Kafka", "Java", "Spring Boot", "Message Queues"]
+    category: "Software Engineering"
+    image: "assets/images/message-broker.jpg"
+    github: "https://github.com/lekhrajdinkar/message-broker-integration"
+    demo: null
+    featured: false
+
+  - id: 9
+    title: "AWS Serverless Applications"
+    description: "Serverless applications using AWS Lambda, API Gateway, DynamoDB with SAM and CDK deployment frameworks"
+    technologies: ["AWS Lambda", "API Gateway", "DynamoDB", "SAM", "CDK", "CloudFormation"]
+    category: "Software Engineering"
+    image: "assets/images/serverless.jpg"
+    github: "https://github.com/lekhrajdinkar/aws-serverless-apps"
+    demo: null
+    featured: false
+
+  # Observability & Monitoring
+  - id: 10
+    title: "Observability Stack"
+    description: "Complete observability solution with metrics, logging, tracing using Datadog, CloudWatch, and X-Ray integration"
+    technologies: ["Datadog", "AWS CloudWatch", "X-Ray", "Spring Boot", "Prometheus", "Grafana"]
+    category: "Platform Engineering"
+    image: "assets/images/observability.jpg"
+    github: "https://github.com/lekhrajdinkar/observability-stack"
     demo: null
     featured: false
 
 skills:
-  - category: "Frontend"
-    items: ["Angular", "TypeScript", "JavaScript", "HTML5", "CSS3", "RxJS"]
+  - category: "Platform Engineering"
+    items: ["Kubernetes", "AWS EKS", "Terraform", "Helm", "Docker", "Harness CI/CD", "GitOps", "Infrastructure as Code"]
   
-  - category: "Backend"
-    items: ["Java", "Spring Boot", "Python", "Django", "Node.js", "PostgreSQL"]
+  - category: "Data Engineering"
+    items: ["PySpark", "Apache Kafka", "PostgreSQL", "Python", "Pandas", "ETL Pipelines", "Data Modeling", "Databricks"]
   
-  - category: "Cloud & DevOps"
-    items: ["AWS", "Terraform", "Docker", "Kubernetes", "Git", "CI/CD"]
+  - category: "Cloud & AWS"
+    items: ["AWS Lambda", "EKS", "RDS", "S3", "API Gateway", "CloudFormation", "SAM", "CDK", "VPC", "IAM"]
+  
+  - category: "Software Engineering"
+    items: ["Java", "Spring Boot", "Microservices", "System Design", "API Design", "Message Brokers", "Distributed Systems"]
+  
+  - category: "Databases & Storage"
+    items: ["PostgreSQL", "DynamoDB", "Redis", "Database Design", "SQL Optimization", "Data Partitioning", "ACID Properties"]
+  
+  - category: "Observability & Monitoring"
+    items: ["Datadog", "CloudWatch", "X-Ray", "Prometheus", "Grafana", "Distributed Tracing", "Metrics & Logging"]
+  
+  - category: "Security & Authentication"
+    items: ["JWT", "OAuth 2.0", "OIDC", "SAML", "PKI", "AWS IAM", "RBAC", "Service Accounts"]
+  
+  - category: "Message Systems"
+    items: ["Apache Kafka", "RabbitMQ", "AWS SQS", "SNS", "Kinesis", "Event-Driven Architecture", "Message Patterns"]
 
 experience:
-  - company: "Tech Company"
-    position: "Senior Software Engineer"
+  - company: "Enterprise Technology Solutions"
+    position: "Senior Platform Engineer"
     duration: "2022 - Present"
-    description: "Leading microservices architecture and cloud migration projects"
+    description: "Leading Kubernetes platform engineering, AWS infrastructure automation with Terraform, and CI/CD pipeline optimization using Harness. Architecting multi-tenant EKS clusters with comprehensive observability."
   
-  - company: "Data Corp"
-    position: "Full Stack Developer"
+  - company: "Data Analytics Corp"
+    position: "Data Engineer"
     duration: "2020 - 2022"
-    description: "Developed data processing pipelines and web applications"
+    description: "Built scalable ETL pipelines using PySpark, implemented real-time streaming with Kafka, and designed PostgreSQL database architectures for high-performance applications."
+  
+  - company: "Cloud Solutions Inc"
+    position: "Software Engineer"
+    duration: "2018 - 2020"
+    description: "Developed microservices using Java Spring Boot, implemented message-driven architectures with RabbitMQ, and built serverless applications on AWS Lambda with comprehensive monitoring."

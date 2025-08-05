@@ -19,7 +19,40 @@ import { DialogComponent } from '../dialog/dialog.component';
         <h2>Featured Projects</h2>
         <div class="projects-grid">
           <app-card 
-            *ngFor="let project of filteredProjects" 
+            *ngFor="let project of featuredProjects" 
+            [project]="project"
+            (cardClick)="openDialog($event)">
+          </app-card>
+        </div>
+      </section>
+
+      <section class="category-section platform-section" id="platform-engineering">
+        <h2><span class="material-icons">cloud</span> Platform Engineering</h2>
+        <div class="projects-grid">
+          <app-card 
+            *ngFor="let project of platformProjects" 
+            [project]="project"
+            (cardClick)="openDialog($event)">
+          </app-card>
+        </div>
+      </section>
+
+      <section class="category-section data-section" id="data-engineering">
+        <h2><span class="material-icons">analytics</span> Data Engineering</h2>
+        <div class="projects-grid">
+          <app-card 
+            *ngFor="let project of dataProjects" 
+            [project]="project"
+            (cardClick)="openDialog($event)">
+          </app-card>
+        </div>
+      </section>
+
+      <section class="category-section software-section" id="software-engineering">
+        <h2><span class="material-icons">code</span> Software Engineering</h2>
+        <div class="projects-grid">
+          <app-card 
+            *ngFor="let project of softwareProjects" 
             [project]="project"
             (cardClick)="openDialog($event)">
           </app-card>
@@ -159,11 +192,53 @@ import { DialogComponent } from '../dialog/dialog.component';
       line-height: 1.6;
       margin-top: 1rem;
     }
+    .category-section {
+      margin-bottom: 4rem;
+      padding: 2rem;
+      border-radius: 12px;
+      border-left: 4px solid;
+    }
+    .platform-section {
+      border-left-color: #10b981;
+      background: linear-gradient(135deg, rgba(16, 185, 129, 0.05) 0%, rgba(16, 185, 129, 0.02) 100%);
+    }
+    .platform-section h2 {
+      color: #10b981;
+    }
+    .data-section {
+      border-left-color: #f59e0b;
+      background: linear-gradient(135deg, rgba(245, 158, 11, 0.05) 0%, rgba(245, 158, 11, 0.02) 100%);
+    }
+    .data-section h2 {
+      color: #f59e0b;
+    }
+    .software-section {
+      border-left-color: #3b82f6;
+      background: linear-gradient(135deg, rgba(59, 130, 246, 0.05) 0%, rgba(59, 130, 246, 0.02) 100%);
+    }
+    .software-section h2 {
+      color: #3b82f6;
+    }
+    .category-section h2 {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      font-size: 2rem;
+      font-weight: 600;
+      margin-bottom: 2rem;
+    }
+    .category-section h2 .material-icons {
+      font-size: 2rem;
+    }
   `]
 })
 export class DashboardComponent implements OnInit {
   data: any = { projects: [], skills: [], experience: [] };
   filteredProjects: Project[] = [];
+  featuredProjects: Project[] = [];
+  platformProjects: Project[] = [];
+  dataProjects: Project[] = [];
+  softwareProjects: Project[] = [];
   isDialogOpen = false;
   selectedProject: Project | null = null;
 
@@ -171,26 +246,39 @@ export class DashboardComponent implements OnInit {
 
   async ngOnInit(): Promise<void> {
     this.data = await this.dataService.loadProjects();
-    this.filteredProjects = this.data.projects;
+    this.categorizeProjects();
     
     this.dataService.searchTerm$.subscribe(term => {
       this.filterProjects(term);
     });
   }
 
+  private categorizeProjects(): void {
+    this.featuredProjects = this.data.projects.filter((p: Project) => p.featured);
+    this.platformProjects = this.data.projects.filter((p: Project) => p.category === 'Platform Engineering');
+    this.dataProjects = this.data.projects.filter((p: Project) => p.category === 'Data Engineering');
+    this.softwareProjects = this.data.projects.filter((p: Project) => p.category === 'Software Engineering');
+    this.filteredProjects = this.data.projects;
+  }
+
   private filterProjects(searchTerm: string): void {
     if (!searchTerm) {
-      this.filteredProjects = this.data.projects;
+      this.categorizeProjects();
       return;
     }
     
-    this.filteredProjects = this.data.projects.filter((project: Project) =>
+    const filtered = this.data.projects.filter((project: Project) =>
       project.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
       project.description.toLowerCase().includes(searchTerm.toLowerCase()) ||
       project.technologies.some(tech => 
         tech.toLowerCase().includes(searchTerm.toLowerCase())
       )
     );
+    
+    this.featuredProjects = filtered.filter((p: Project) => p.featured);
+    this.platformProjects = filtered.filter((p: Project) => p.category === 'Platform Engineering');
+    this.dataProjects = filtered.filter((p: Project) => p.category === 'Data Engineering');
+    this.softwareProjects = filtered.filter((p: Project) => p.category === 'Software Engineering');
   }
 
   openDialog(project: Project): void {

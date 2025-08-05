@@ -10,7 +10,7 @@ import { Project } from '../../services/data.service';
     <div class="project-card card" (click)="onCardClick()">
       <div class="card-header">
         <h3>{{ project.title }}</h3>
-        <span class="category-badge">{{ project.category }}</span>
+        <span class="category-badge" [ngClass]="getCategoryClass(project.category)">{{ project.category }}</span>
       </div>
       
       <p class="description">{{ project.description }}</p>
@@ -53,12 +53,23 @@ import { Project } from '../../services/data.service';
       margin: 0;
     }
     .category-badge {
-      background: var(--primary-color);
-      color: white;
       padding: 0.25rem 0.75rem;
       border-radius: 12px;
       font-size: 0.75rem;
       font-weight: 500;
+      color: white;
+    }
+    .category-badge:has-text("Platform Engineering"),
+    .project-card:has(.category-badge:contains("Platform Engineering")) .category-badge {
+      background: #10b981;
+    }
+    .category-badge:has-text("Data Engineering"),
+    .project-card:has(.category-badge:contains("Data Engineering")) .category-badge {
+      background: #f59e0b;
+    }
+    .category-badge:has-text("Software Engineering"),
+    .project-card:has(.category-badge:contains("Software Engineering")) .category-badge {
+      background: #3b82f6;
     }
     .description {
       color: var(--secondary-color);
@@ -113,5 +124,14 @@ export class CardComponent {
 
   onCardClick(): void {
     this.cardClick.emit(this.project);
+  }
+
+  getCategoryClass(category: string): string {
+    switch (category) {
+      case 'Platform Engineering': return 'platform-badge';
+      case 'Data Engineering': return 'data-badge';
+      case 'Software Engineering': return 'software-badge';
+      default: return 'default-badge';
+    }
   }
 }
