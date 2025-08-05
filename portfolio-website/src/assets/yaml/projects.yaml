@@ -1,0 +1,61 @@
+projects:
+  - id: 1
+    title: "Microservices E-commerce Platform"
+    description: "Full-stack e-commerce platform with Java Spring Boot microservices, Angular frontend, and Kubernetes deployment"
+    technologies: ["Java", "Spring Boot", "Angular", "PostgreSQL", "Kubernetes", "Docker"]
+    category: "Software Engineering"
+    image: "assets/images/ecommerce.jpg"
+    github: "https://github.com/lekhrajdinkar/ecommerce-platform"
+    demo: "https://ecommerce-demo.example.com"
+    featured: true
+
+  - id: 2
+    title: "Real-time Data Pipeline"
+    description: "Scalable data pipeline using Apache Kafka, PySpark, and AWS services for real-time analytics"
+    technologies: ["Python", "PySpark", "Kafka", "AWS", "PostgreSQL", "Docker"]
+    category: "Data Engineering"
+    image: "assets/images/data-pipeline.jpg"
+    github: "https://github.com/lekhrajdinkar/data-pipeline"
+    demo: "https://data-dashboard.example.com"
+    featured: true
+
+  - id: 3
+    title: "Infrastructure as Code Templates"
+    description: "Terraform modules for AWS infrastructure with CI/CD pipelines and monitoring"
+    technologies: ["Terraform", "AWS", "Kubernetes", "Harness", "Prometheus"]
+    category: "Platform Engineering"
+    image: "assets/images/infrastructure.jpg"
+    github: "https://github.com/lekhrajdinkar/terraform-modules"
+    demo: null
+    featured: true
+
+  - id: 4
+    title: "Distributed Task Scheduler"
+    description: "Microservice for distributed task scheduling with Redis and RabbitMQ"
+    technologies: ["Java", "Spring Boot", "Redis", "RabbitMQ", "Docker"]
+    category: "Software Engineering"
+    image: "assets/images/scheduler.jpg"
+    github: "https://github.com/lekhrajdinkar/task-scheduler"
+    demo: null
+    featured: false
+
+skills:
+  - category: "Frontend"
+    items: ["Angular", "TypeScript", "JavaScript", "HTML5", "CSS3", "RxJS"]
+  
+  - category: "Backend"
+    items: ["Java", "Spring Boot", "Python", "Django", "Node.js", "PostgreSQL"]
+  
+  - category: "Cloud & DevOps"
+    items: ["AWS", "Terraform", "Docker", "Kubernetes", "Git", "CI/CD"]
+
+experience:
+  - company: "Tech Company"
+    position: "Senior Software Engineer"
+    duration: "2022 - Present"
+    description: "Leading microservices architecture and cloud migration projects"
+  
+  - company: "Data Corp"
+    position: "Full Stack Developer"
+    duration: "2020 - 2022"
+    description: "Developed data processing pipelines and web applications"

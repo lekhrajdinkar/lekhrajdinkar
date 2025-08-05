@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --primary-color: #2563eb;
+  --secondary-color: #64748b;
+  --accent-color: #f59e0b;
+  --background-light: #ffffff;
+  --background-dark: #0f172a;
+  --surface-light: #f8fafc;
+  --surface-dark: #1e293b;
+  --text-light: #0f172a;
+  --text-dark: #f8fafc;
+  --border-light: #e2e8f0;
+  --border-dark: #334155;
+}
+
+[data-theme="light"] {
+  --background: var(--background-light);
+  --surface: var(--surface-light);
+  --text: var(--text-light);
+  --border: var(--border-light);
+}
+
+[data-theme="dark"] {
+  --background: var(--background-dark);
+  --surface: var(--surface-dark);
+  --text: var(--text-dark);
+  --border: var(--border-dark);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: var(--background);
+  color: var(--text);
+  transition: all 0.3s ease;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+}
+
+.btn {
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.btn-primary {
+  background: var(--primary-color);
+  color: white;
+}
+
+.btn-primary:hover {
+  background: #1d4ed8;
+}
