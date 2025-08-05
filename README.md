@@ -1,28 +1,73 @@
-![](https://komarev.com/ghpvc/?username=lekhrajdinkar)  
+# 👋 Hi there, I'm Lekhraj Dinkar
+
+Welcome to my GitHub profile — a space where engineering meets innovation.
 
 ---
 
-[](https://github-readme-stats.vercel.app/api?username=lekhrajdinkar&show_icons=true&theme=light) 
+## 🚀 About Me
 
-![](https://github-readme-streak-stats.herokuapp.com?user=lekhrajdinkar&theme=light)
+🎯 **Solution Engineer | Platform Engineer | Data Engineer**  
+🔧 Building scalable, secure, and observable systems with a DevOps mindset  
+🌍 Passionate about distributed systems, platform tooling, and developer productivity
 
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lekhrajdinkar&layout=compact&langs_count=8&hide_border=true&theme=light&hide=Jupyter%20Notebook,HTML)
+---
+
+## 📈 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=lekhrajdinkar&style=flat-square)  
+![Lekhraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lekhrajdinkar&show_icons=true&theme=default)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=lekhrajdinkar&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lekhrajdinkar&layout=compact&hide=Jupyter%20Notebook,HTML)
 
 ---
 
-Frontend
+## 💼 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=angular,ts,css,html,js,redux,rxjs,npm,nodejs" />
+### 🌐 Frontend
+![Angular](https://skillicons.dev/icons?i=angular,ts,html,css,js,redux,rxjs)
 
-Backend
+### 🧠 Backend / Engineering
+![Java](https://skillicons.dev/icons?i=java,spring,hibernate)
+![Python](https://skillicons.dev/icons?i=python,django)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Kafka](https://skillicons.dev/icons?i=kafka)
+![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
+![Maven](https://skillicons.dev/icons?i=maven)
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,django,nodejs,maven,postgres,eclipse,idea,pycharm,vscode,postman,kafka,rabbitmq" />
 
-Cloud and DevOps
+### ☁️ Platform & DevOps
+![AWS](https://skillicons.dev/icons?i=aws)
+![Terraform](https://skillicons.dev/icons?i=terraform)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+![GitHub](https://skillicons.dev/icons?i=github,git,bash)
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,git,github,linux,bash" />
+### 🧩 Data Engineering
+![PySpark](https://skillicons.dev/icons?i=spark,python,sql)
+![Flink](https://skillicons.dev/icons?i=flink)
+![Redshift](https://skillicons.dev/icons?i=redshift)
+![Databricks](https://skillicons.dev/icons?i=databricks)
 
 ---
-### 📫 Connect with Me  
-🗨️[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lekhrajdinkarus@gmail.com)  | 👩🏻‍💻 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lekhraj-dinkar-25872140/)  
-  
+
+## 🛠️ Tools & IDEs
+
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
+![PyCharm](https://skillicons.dev/icons?i=pycharm)
+![Eclipse](https://skillicons.dev/icons?i=eclipse)
+![Postman](https://skillicons.dev/icons?i=postman)
+
+---
+
+## 📬 Let’s Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lekhrajdinkarus@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lekhraj-dinkar-25872140/)
+
+---
+
+_Thanks for stopping by — open to collaborations, cool ideas, and challenging projects!_
+
