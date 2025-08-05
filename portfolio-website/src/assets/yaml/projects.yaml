@@ -1,12 +1,30 @@
 projects:
   # Platform Engineering Projects
   - id: 1
-    title: "AWS EKS Multi-Tenant Platform"
-    description: "Production-ready Kubernetes platform on AWS EKS with multi-tenancy, IRSA, external secrets, and comprehensive monitoring"
+    title: "Microservices with java on AWS-EKS/minikube"
+    description: "Production-ready Kubernetes platform on AWS EKS with multi-tenancy, IRSA, external secrets, and monitoring with Prometheus"
     technologies: ["Kubernetes", "AWS EKS", "Terraform", "Helm", "External Secrets", "IRSA", "Prometheus"]
     category: "Platform Engineering"
     image: "assets/images/eks-platform.jpg"
-    github: "https://github.com/lekhrajdinkar/eks-platform"
+    github: "https://github.com/lekhrajdinkar/microservice-java"
+    demo: null
+    docs: null
+    featured: true
+
+  - id: 1
+    title: "Microservices with python on AWS-EKS/minikube"
+    description: "Production-ready Kubernetes platform on AWS EKS with multi-tenancy, IRSA, external secrets, and comprehensive monitoring"
+    details:
+      - "Implemented multi-tenant EKS clusters with namespace isolation and resource quotas"
+      - "Configured IAM Roles for Service Accounts (IRSA) for secure AWS service access"
+      - "Integrated External Secrets Operator for seamless secret management from AWS Secrets Manager"
+      - "Set up comprehensive monitoring with Prometheus, Grafana, and CloudWatch integration"
+      - "Automated cluster provisioning using Terraform with reusable modules"
+      - "Implemented Helm charts for standardized application deployments"
+    technologies: ["Kubernetes", "AWS EKS", "Terraform", "Helm", "External Secrets", "IRSA", "Prometheus"]
+    category: "Platform Engineering"
+    image: "assets/images/eks-platform.jpg"
+    github: "https://github.com/lekhrajdinkar/microservice-java"
     demo: null
     docs: null
     featured: true

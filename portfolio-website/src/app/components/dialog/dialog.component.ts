@@ -7,8 +7,8 @@ import { Project } from '../../services/data.service';
   standalone: true,
   imports: [CommonModule],
   template: `
-    <div class="dialog-overlay" *ngIf="isOpen" (click)="onOverlayClick($event)">
-      <div class="dialog-content" (click)="$event.stopPropagation()">
+    <div class="dialog-overlay" *ngIf="isOpen" [class.open]="isOpen">
+      <div class="dialog-content">
         <div class="dialog-header">
           <h2>{{ project?.title }}</h2>
           <button class="close-btn" (click)="closeDialog()">
@@ -32,6 +32,13 @@ import { Project } from '../../services/data.service';
             <div class="detail-section">
               <h4>Category</h4>
               <span class="category-badge">{{ project.category }}</span>
+            </div>
+            
+            <div class="detail-section" *ngIf="project.details && project.details.length > 0">
+              <h4>Project Details</h4>
+              <ul class="details-list">
+                <li *ngFor="let detail of project.details">{{ detail }}</li>
+              </ul>
             </div>
             
             <div class="detail-section" *ngIf="project.github || project.demo || project.docs">
@@ -60,24 +67,26 @@ import { Project } from '../../services/data.service';
     .dialog-overlay {
       position: fixed;
       top: 0;
-      left: 0;
       right: 0;
       bottom: 0;
-      background: rgba(0, 0, 0, 0.5);
-      display: flex;
-      align-items: center;
-      justify-content: center;
+      width: 70%;
+      background: var(--background);
+      border-left: 1px solid var(--border);
       z-index: 1000;
-      animation: fadeIn 0.3s ease;
+      transform: translateX(100%);
+      opacity: 0;
+      transition: transform 0.4s cubic-bezier(0.25, 0.8, 0.25, 1), opacity 0.3s ease;
+      box-shadow: -4px 0 20px rgba(0, 0, 0, 0.1);
+    }
+    .dialog-overlay.open {
+      transform: translateX(0);
+      opacity: 1;
     }
     .dialog-content {
-      background: var(--surface);
-      border-radius: 12px;
-      max-width: 600px;
-      width: 90%;
-      max-height: 80vh;
+      height: 100%;
       overflow-y: auto;
-      animation: slideIn 0.3s ease;
+      display: flex;
+      flex-direction: column;
     }
     .dialog-header {
       display: flex;
@@ -167,14 +176,26 @@ import { Project } from '../../services/data.service';
       background: #d97706;
       color: white;
     }
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
+    .details-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
     }
-    @keyframes slideIn {
-      from { transform: translateY(-20px); opacity: 0; }
-      to { transform: translateY(0); opacity: 1; }
+    .details-list li {
+      padding: 0.5rem 0;
+      padding-left: 1.5rem;
+      position: relative;
+      color: var(--secondary-color);
+      line-height: 1.5;
     }
+    .details-list li:before {
+      content: '•';
+      color: var(--primary-color);
+      font-weight: bold;
+      position: absolute;
+      left: 0;
+    }
+
   `]
 })
 export class DialogComponent {
@@ -184,9 +205,5 @@ export class DialogComponent {
 
   closeDialog(): void {
     this.close.emit();
-  }
-
-  onOverlayClick(event: Event): void {
-    this.closeDialog();
   }
 }

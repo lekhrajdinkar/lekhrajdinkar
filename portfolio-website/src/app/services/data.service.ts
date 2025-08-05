@@ -7,6 +7,7 @@ export interface Project {
   id: number;
   title: string;
   description: string;
+  details?: string[];
   technologies: string[];
   category: string;
   image: string;
