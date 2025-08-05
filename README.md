@@ -12,12 +12,11 @@ Welcome to my GitHub profile — a space where engineering meets innovation.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats ![Profile Views](https://komarev.com/ghpvc/?username=lekhrajdinkar&style=flat-square)
 
-![Profile Views](https://komarev.com/ghpvc/?username=lekhrajdinkar&style=flat-square)  
-![Lekhraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lekhrajdinkar&show_icons=true&theme=default)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=lekhrajdinkar&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lekhrajdinkar&layout=compact&hide=Jupyter%20Notebook,HTML)
+| Profile Views | GitHub Stats | GitHub Streak |
+|---------------|--------------|----------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lekhrajdinkar&layout=compact&hide=Jupyter%20Notebook,HTML)| ![Lekhraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lekhrajdinkar&show_icons=true&theme=default) | ![GitHub Streak](https://streak-stats.demolab.com/?user=lekhrajdinkar&theme=default) |
 
 ---
 
