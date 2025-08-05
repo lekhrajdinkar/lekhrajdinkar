@@ -31,20 +31,20 @@ A modern Angular portfolio website showcasing software engineering, data enginee
 ## Getting Started
 
 1. Install dependencies:
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 2. Start development server:
-   \`\`\`bash
+   ```bash
    npm start
-   \`\`\`
+   ```
 
 3. Open http://localhost:4200
 
 ## Project Structure
 
-\`\`\`
+```
 src/
 ├── app/
 │   ├── components/
@@ -60,7 +60,7 @@ src/
 └── assets/
     └── yaml/
         └── projects.yaml
-\`\`\`
+```
 
 ## Customization
 
@@ -68,8 +68,8 @@ Edit \`src/assets/yaml/projects.yaml\` to add your own projects, skills, and exp
 
 ## Build
 
-\`\`\`bash
+```bash
 npm run build
-\`\`\`
+```
 
 The build artifacts will be stored in the \`dist/\` directory.
