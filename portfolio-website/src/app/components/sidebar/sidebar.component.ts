@@ -33,6 +33,10 @@ import { RouterModule } from '@angular/router';
       <div class="nav-section">
         <h3>Project Categories</h3>
         <ul class="nav-list category-nav">
+          <li><a href="#software-engineering" class="software-category">
+            <span class="material-icons">code</span>
+            Software Engineering
+          </a></li>
           <li><a href="#platform-engineering" class="platform-category">
             <span class="material-icons">cloud</span>
             Platform Engineering
@@ -40,10 +44,6 @@ import { RouterModule } from '@angular/router';
           <li><a href="#data-engineering" class="data-category">
             <span class="material-icons">analytics</span>
             Data Engineering
-          </a></li>
-          <li><a href="#software-engineering" class="software-category">
-            <span class="material-icons">code</span>
-            Software Engineering
           </a></li>
         </ul>
       </div>

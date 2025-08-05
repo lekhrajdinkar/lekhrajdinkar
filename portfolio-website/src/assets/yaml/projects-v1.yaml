@@ -128,57 +128,18 @@ skills:
   - category: "Message Systems"
     items: ["Apache Kafka", "RabbitMQ", "AWS SQS", "SNS", "Kinesis", "Event-Driven Architecture", "Message Patterns"]
 
-summary: |
-  12+ years of experience in the financial services sector. 
-  Proven expertise in designing scalable and reliable enterprise applications using cloud-native AWS solutions, 
-  container orchestration, microservices architecture, event driven architecture with multiple message broker,
-  CI/CD automation. Strong background in driving digital transformation, technical leadership, and end-to-end solution delivery.
-  Learning Agentic AI architectures.
-
 experience:
-  - company: "Capital Group Companies (Infosys Limited)"
-    position: "Solution and DevOps Engineer"
-    duration: "Feb 2022 - Present"
-    location: "Irvine, USA"
-    project: "MAPS - Multi Asset Portfolio System"
-    description: | 
-      "Led cloud-native architecture design using AWS ECS/EKS with Aurora serverless. 
-      Secured APIs with OAuth2.0/OIDC and JWT. Developed Infrastructure as Code with Terraform and AWS CDK. 
-      Built CI/CD pipelines using Harness SaaS. Enhanced observability with OTEL, CloudWatch, and Datadog."
+  - company: "Enterprise Technology Solutions"
+    position: "Senior Platform Engineer"
+    duration: "2022 - Present"
+    description: "Leading Kubernetes platform engineering, AWS infrastructure automation with Terraform, and CI/CD pipeline optimization using Harness. Architecting multi-tenant EKS clusters with comprehensive observability."
   
-  - company: "Capital Group Companies (Infosys Limited)"
-    position: "Technology Lead"
-    duration: "Feb 2021 - Jan 2022"
-    location: "Pune, India"
-    project: "TACT - TargetDateFund Allocation Tool"
-    description: | 
-      "Modernized legacy enterprise application by upgrading from Java 7 to Java 11 with Spring Boot. 
-      Replaced Struts2 framework. Upgraded Hibernate v3 to v5 with JPA repositories. 
-      Secured RESTful APIs with OAuth2 and SSL."
+  - company: "Data Analytics Corp"
+    position: "Data Engineer"
+    duration: "2020 - 2022"
+    description: "Built scalable ETL pipelines using PySpark, implemented real-time streaming with Kafka, and designed PostgreSQL database architectures for high-performance applications."
   
-  - company: "Capital Group Companies (Infosys Limited)"
-    position: "Technology Analyst"
-    duration: "Mar 2020 - Jan 2021"
-    location: "Irvine, USA"
-    project: "FSR - Fund Sale and Redemption"
-    description: | 
-      "Migrated legacy Adobe Flash UI to Angular 12 with responsive design. 
-      Implemented state management using NgRx. Applied reactive programming with RxJS observables. 
-      Built reusable Angular components with Angular Material."
-  
-  - company: "Capital Group Companies (Infosys Limited)"
-    position: "Senior System Engineer"
-    duration: "Nov 2018 - Feb 2020"
-    location: "Irvine, USA"
-    project: "TACT - Development + BAU"
-    description: | 
-      "Resolved critical performance bottlenecks, improving throughput from 2 minutes to 1 second. 
-      Implemented SWIFT-based communication for Canadian funds. 
-      Established secure messaging with IBM MQ and two-way SSL."
-  
-  - company: "Capital Group Companies (Infosys Limited)"
-    position: "Senior System Engineer"
-    duration: "Mar 2017 - Oct 2018"
-    location: "Irvine, USA"
-    project: "OPAC - Order Processing and Compliance"
-    description: "Contributed to Cirrus cloud migration initiative. Migrated from Perforce to Bitbucket version control. Transitioned to Bamboo build pipeline and XLDeploy for CI/CD automation. Utilized Flyway for database versioning."
+  - company: "Cloud Solutions Inc"
+    position: "Software Engineer"
+    duration: "2018 - 2020"
+    description: "Developed microservices using Java Spring Boot, implemented message-driven architectures with RabbitMQ, and built serverless applications on AWS Lambda with comprehensive monitoring."

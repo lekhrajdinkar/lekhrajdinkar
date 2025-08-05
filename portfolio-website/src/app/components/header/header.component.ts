@@ -12,7 +12,7 @@ import { DataService } from '../../services/data.service';
     <header class="header">
       <div class="header-left">
         <h1>Lekhraj Dinkar</h1>
-        <span class="subtitle">Full Stack Developer</span>
+        <span class="subtitle">Solution Engineer | Platform Engineer</span>
       </div>
       
       <div class="header-center">

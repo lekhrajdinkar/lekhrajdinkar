@@ -12,14 +12,18 @@ import { DialogComponent } from '../dialog/dialog.component';
     <div class="dashboard">
       <section class="hero-section">
         <h1>Welcome to My Portfolio</h1>
-        <p>Exploring Software Engineering, Data Engineering, and Platform Engineering</p>
+        <p class="hero-subtitle">Exploring Software Engineering, Data Engineering, and Platform Engineering</p>
+        <div class="professional-summary" *ngIf="data.summary">
+          <h3>Professional Summary</h3>
+          <p>{{ data.summary }}</p>
+        </div>
       </section>
 
-      <section class="featured-projects" id="projects">
-        <h2>Featured Projects</h2>
+      <section class="category-section software-section" id="software-engineering">
+        <h2><span class="material-icons">code</span> Software Engineering</h2>
         <div class="projects-grid">
           <app-card 
-            *ngFor="let project of featuredProjects" 
+            *ngFor="let project of softwareProjects" 
             [project]="project"
             (cardClick)="openDialog($event)">
           </app-card>
@@ -48,17 +52,6 @@ import { DialogComponent } from '../dialog/dialog.component';
         </div>
       </section>
 
-      <section class="category-section software-section" id="software-engineering">
-        <h2><span class="material-icons">code</span> Software Engineering</h2>
-        <div class="projects-grid">
-          <app-card 
-            *ngFor="let project of softwareProjects" 
-            [project]="project"
-            (cardClick)="openDialog($event)">
-          </app-card>
-        </div>
-      </section>
-
       <section class="skills-section" id="skills">
         <h2>Technical Skills</h2>
         <div class="skills-grid">
@@ -80,7 +73,13 @@ import { DialogComponent } from '../dialog/dialog.component';
             <div class="experience-content">
               <h3>{{ exp.position }}</h3>
               <h4>{{ exp.company }}</h4>
-              <span class="duration">{{ exp.duration }}</span>
+              <div class="experience-meta">
+                <span class="duration">{{ exp.duration }}</span>
+                <span class="location" *ngIf="exp.location">{{ exp.location }}</span>
+              </div>
+              <div class="project-info" *ngIf="exp.project">
+                <strong>Project:</strong> {{ exp.project }}
+              </div>
               <p>{{ exp.description }}</p>
             </div>
           </div>
@@ -110,9 +109,31 @@ import { DialogComponent } from '../dialog/dialog.component';
       color: var(--text);
       margin-bottom: 1rem;
     }
-    .hero-section p {
+    .hero-subtitle {
       font-size: 1.25rem;
       color: var(--secondary-color);
+      margin-bottom: 2rem;
+    }
+    .professional-summary {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2rem;
+      background: var(--surface);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      text-align: left;
+    }
+    .professional-summary h3 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 1rem;
+    }
+    .professional-summary p {
+      font-size: 1rem;
+      line-height: 1.6;
+      color: var(--secondary-color);
+      white-space: pre-line;
     }
     section {
       margin-bottom: 4rem;
@@ -151,13 +172,22 @@ import { DialogComponent } from '../dialog/dialog.component';
       gap: 0.5rem;
     }
     .skill-tag {
-      background: var(--primary-color);
-      color: white;
-      padding: 0.5rem 1rem;
-      border-radius: 8px;
-      font-size: 0.875rem;
+      background: transparent;
+      padding: 0.375rem 0.75rem;
+      border-radius: 6px;
+      font-size: 0.75rem;
       font-weight: 500;
+      margin: 0.125rem;
+      border: 1.5px solid;
     }
+    .skill-tag:nth-child(8n+1) { border-color: #3b82f6; color: #3b82f6; }
+    .skill-tag:nth-child(8n+2) { border-color: #10b981; color: #10b981; }
+    .skill-tag:nth-child(8n+3) { border-color: #f59e0b; color: #f59e0b; }
+    .skill-tag:nth-child(8n+4) { border-color: #ef4444; color: #ef4444; }
+    .skill-tag:nth-child(8n+5) { border-color: #8b5cf6; color: #8b5cf6; }
+    .skill-tag:nth-child(8n+6) { border-color: #06b6d4; color: #06b6d4; }
+    .skill-tag:nth-child(8n+7) { border-color: #f97316; color: #f97316; }
+    .skill-tag:nth-child(8n+8) { border-color: #84cc16; color: #84cc16; }
     .experience-timeline {
       display: flex;
       flex-direction: column;
@@ -191,6 +221,27 @@ import { DialogComponent } from '../dialog/dialog.component';
       color: var(--secondary-color);
       line-height: 1.6;
       margin-top: 1rem;
+    }
+    .experience-meta {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 0.5rem;
+    }
+    .location {
+      font-size: 0.875rem;
+      color: var(--secondary-color);
+      font-weight: 500;
+    }
+    .project-info {
+      font-size: 0.875rem;
+      color: var(--text);
+      margin-bottom: 1rem;
+      padding: 0.5rem;
+      background: var(--border);
+      border-radius: 6px;
+    }
+    .project-info strong {
+      color: var(--primary-color);
     }
     .category-section {
       margin-bottom: 4rem;
