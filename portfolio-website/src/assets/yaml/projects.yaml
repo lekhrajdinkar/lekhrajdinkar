@@ -8,6 +8,7 @@ projects:
     image: "assets/images/eks-platform.jpg"
     github: "https://github.com/lekhrajdinkar/eks-platform"
     demo: null
+    docs: null
     featured: true
 
   - id: 2
@@ -18,6 +19,7 @@ projects:
     image: "assets/images/terraform-modules.jpg"
     github: "https://github.com/lekhrajdinkar/terraform-aws-modules"
     demo: null
+    docs: null
     featured: true
 
   - id: 3
@@ -28,6 +30,7 @@ projects:
     image: "assets/images/harness-pipeline.jpg"
     github: "https://github.com/lekhrajdinkar/harness-pipelines"
     demo: null
+    docs: null
     featured: true
 
   # Data Engineering Projects
@@ -39,6 +42,7 @@ projects:
     image: "assets/images/pyspark-etl.jpg"
     github: "https://github.com/lekhrajdinkar/pyspark-etl-pipeline"
     demo: "https://databricks-demo.example.com"
+    docs: null
     featured: true
 
   - id: 5
@@ -49,6 +53,7 @@ projects:
     image: "assets/images/kafka-streaming.jpg"
     github: "https://github.com/lekhrajdinkar/kafka-streaming"
     demo: null
+    docs: null
     featured: true
 
   - id: 6
@@ -59,6 +64,7 @@ projects:
     image: "assets/images/postgres-design.jpg"
     github: "https://github.com/lekhrajdinkar/postgres-shopping-app"
     demo: null
+    docs: null
     featured: false
 
   # Software Engineering Projects
@@ -70,6 +76,7 @@ projects:
     image: "assets/images/microservices.jpg"
     github: "https://github.com/lekhrajdinkar/microservices-system"
     demo: null
+    docs: null
     featured: true
 
   - id: 8
@@ -80,6 +87,7 @@ projects:
     image: "assets/images/message-broker.jpg"
     github: "https://github.com/lekhrajdinkar/message-broker-integration"
     demo: null
+    docs: null
     featured: false
 
   - id: 9
@@ -90,6 +98,7 @@ projects:
     image: "assets/images/serverless.jpg"
     github: "https://github.com/lekhrajdinkar/aws-serverless-apps"
     demo: null
+    docs: null
     featured: false
 
   # Observability & Monitoring
@@ -101,6 +110,7 @@ projects:
     image: "assets/images/observability.jpg"
     github: "https://github.com/lekhrajdinkar/observability-stack"
     demo: null
+    docs: null
     featured: false
 
 skills:

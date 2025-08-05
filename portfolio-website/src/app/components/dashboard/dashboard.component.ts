@@ -178,16 +178,9 @@ import { DialogComponent } from '../dialog/dialog.component';
       font-size: 0.75rem;
       font-weight: 500;
       margin: 0.125rem;
-      border: 1.5px solid;
+      border: 1.5px solid var(--primary-color);
+      color: var(--primary-color);
     }
-    .skill-tag:nth-child(8n+1) { border-color: #3b82f6; color: #3b82f6; }
-    .skill-tag:nth-child(8n+2) { border-color: #10b981; color: #10b981; }
-    .skill-tag:nth-child(8n+3) { border-color: #f59e0b; color: #f59e0b; }
-    .skill-tag:nth-child(8n+4) { border-color: #ef4444; color: #ef4444; }
-    .skill-tag:nth-child(8n+5) { border-color: #8b5cf6; color: #8b5cf6; }
-    .skill-tag:nth-child(8n+6) { border-color: #06b6d4; color: #06b6d4; }
-    .skill-tag:nth-child(8n+7) { border-color: #f97316; color: #f97316; }
-    .skill-tag:nth-child(8n+8) { border-color: #84cc16; color: #84cc16; }
     .experience-timeline {
       display: flex;
       flex-direction: column;

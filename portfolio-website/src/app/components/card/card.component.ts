@@ -30,6 +30,10 @@ import { Project } from '../../services/data.service';
           <span class="material-icons">launch</span>
           Demo
         </a>
+        <a *ngIf="project.docs" [href]="project.docs" target="_blank" class="btn btn-docs">
+          <span class="material-icons">description</span>
+          Docs
+        </a>
       </div>
     </div>
   `,
@@ -111,6 +115,14 @@ import { Project } from '../../services/data.service';
     }
     .btn-secondary:hover {
       background: var(--secondary-color);
+      color: white;
+    }
+    .btn-docs {
+      background: var(--accent-color);
+      color: white;
+    }
+    .btn-docs:hover {
+      background: #d97706;
       color: white;
     }
     .material-icons {
