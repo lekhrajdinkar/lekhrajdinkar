@@ -6,9 +6,11 @@ Welcome to my GitHub profile — a space where engineering meets innovation.
 
 ## 🚀 About Me
 
-🎯 **Solution Engineer | Platform Engineer | Data Engineer**  
-🔧 Building scalable, secure, and observable systems with a DevOps mindset  
-🌍 Passionate about distributed systems, platform tooling, and developer productivity
+🎯 **Solution Engineer (10+ years)**  
+🎓 blended role: Platform Engineer and Data Engineer
+🔧 Building scalable, secure, and observable systems with a DevOps, finOps, gitOps, DevSecOps and Agile mindset  
+🌍 Passionate about distributed systems, platform tooling, Data Pipeline and GenAI
+🔷 Continous learner
 
 ---
 
